@@ -1,0 +1,1009 @@
+2015-09-22 15:49:02 < CQD > Test
+2015-09-22 15:51:03 < johnroyer > 哞 ~
+2015-09-22 15:51:22 < johnroyer > 不過我沒記錯的話，還是要有 Github 帳號
+2015-10-20 14:42:55 < chusiang > XDD
+2015-10-20 14:44:47 < chusiang > 四樓來了 …
+2015-10-20 14:45:13 < Mikimoto > 五樓
+2015-10-20 15:00:52 < CQD > 倒數十天..還是十一天...
+2015-10-20 15:03:55 < chusiang > 是 10 天喔
+2015-10-20 16:03:12 < chusiang > 先幫 mopcon-chat 按星星了。晚安 ~~
+2015-10-23 02:46:18 < johnroyer > 我來潛水了
+2015-10-23 02:55:10 < johnroyer > 謝謝 @CQD 
+2015-10-24 06:34:31 < hashman > 安安
+2015-10-24 06:34:35 < hashman > I’m in
+2015-10-24 06:34:41 < johnroyer > 發現 gitter 有很多平台的 app 耶
+https://gitter.im/apps
+2015-10-24 06:34:52 < hashman > @Mikimoto 照片看起來好年輕xdd
+2015-10-24 06:36:55 < johnroyer > @hashman 霸凌嗎 XD
+2015-10-24 06:38:33 < hashman > 哪有xd
+2015-10-24 06:48:39 < chusiang > 要做的比 gitter 好可得下很多工夫喔！
+2015-10-24 07:02:33 < johnroyer > gitter bot test
+2015-10-24 07:13:33 < johnroyer > `zeroplex` who
+2015-10-24 07:13:54 < johnroyer > gitter test
+2015-10-24 07:14:25 < johnroyer > hello world
+2015-10-24 07:14:41 < johnroyer > `zeroplex` bot test
+2015-10-24 07:18:36 < johnroyer > gitter test
+2015-10-24 07:34:53 < johnroyer > @cqd ：聽說你要請大家吃慶功宴！？
+2015-10-24 07:35:29 < zeroplex-bot > `zeroplex` 謝謝 CQD
+2015-10-24 07:40:59 < almightybobo > 嗨
+2015-10-24 07:42:08 < johnroyer > 原來 BOBO 也在線上
+2015-10-24 07:45:33 < chusiang > 所以 @johnroyer 大大等不及？已經串起來了？
+2015-10-24 07:45:46 < johnroyer > @CQD 在忙
+2015-10-24 07:46:03 < johnroyer > 反正看起來不難用，所以我休息一下先把機器架起來了
+2015-10-24 07:46:21 < zeroplex-bot > `chusiang` zeroplex: <(_  _)>
+2015-10-24 07:46:29 < johnroyer > 複製貼上就會動了
+2015-10-24 07:46:49 < zeroplex-bot > `chusiang` @johnroyer 猛！
+2015-10-24 07:47:27 < zeroplex-bot > `chusiang` 接下來還要請 mikimoto 把 irc 的 topic 改成 MOPCON 2015 才行。
+2015-10-24 07:48:08 < chusiang > @Mikimoto 請將 #mopcon 的 topic 改成 MOPCON 2015 喔，謝啦！
+2015-10-24 07:48:40 < johnroyer > @chusiang 　你那邊有 MOPCON 的 logo 嗎？我把 bot 的 avatar 換一下
+2015-10-24 07:49:50 < johnroyer > 找到了
+2015-10-24 07:50:26 < chusiang > 有架設 irc proxy 的懶人包嗎？
+2015-10-24 07:51:35 < johnroyer > 沒有耶，最懶的就是 docker 
+2015-10-24 07:51:44 < johnroyer > 我是 VM 跑，所以沒有用 docker
+2015-10-24 07:52:34 < zeroplex-bot > `zeroplex` 用這個 bot ，然後把參數設定一下就會動了   https://github.com/finnp/gitter-irc-bot/
+2015-10-24 07:55:01 < chusiang > good job.
+2015-10-24 08:53:25 < zeroplex-bot > `Mouther` hi~
+2015-10-24 09:10:56 < maxsolar > Hi guys
+2015-10-24 09:28:05 < WeichiWang > Hello
+2015-10-24 09:28:34 < zeroplex-bot > `chusiang_` Hi maxsolar and WeichiWang.
+2015-10-24 09:29:46 < zeroplex-bot > `chusiang_` I use the IRC, now.
+2015-10-24 17:51:39 < ericpi > 好棒, 有 web IM 可以玩了 xDDD
+2015-10-25 15:53:56 < hungjie19 > test !
+2015-10-26 01:26:50 < johnroyer > 早安
+2015-10-26 01:27:06 < Luxame > 早安//
+2015-10-26 01:42:13 < johnroyer > 今日宜遠離電腦 .... 準備請假
+http://technet.tw/
+2015-10-27 15:33:12 < CQD > 好像支援 markdown
+- 喵
+- 汪
+- 可愛小女孩
+2015-10-27 15:33:33 < CQD > ```php
+<?php
+ehco "code block test";
+```
+2015-10-27 15:33:38 < CQD > 帥耶
+2015-10-27 15:44:19 < johnroyer > IRC 不支援啦 =3=
+2015-10-27 15:53:23 < hashman > 我發現CQD拼錯了
+2015-10-27 15:53:24 < hashman > echo 
+2015-10-27 15:53:59 < hashman > ```
+echo “test”;
+```
+2015-10-27 15:55:47 < CQD > 誒～～口～～
+2015-10-27 16:06:23 < chusiang >  ```
+#!/bin/bash
+echo “Hello World !”;
+```
+2015-10-27 16:14:04 < johnroyer > IRC 表示哭哭
+2015-10-27 16:51:41 < chusiang > ```
+#!/usr/bin/python
+print('Hello World !')
+```
+2015-10-28 00:39:54 < hsinnan > TEST ^^
+2015-10-28 00:47:44 < diablofong > test
+2015-10-28 00:47:51 < diablofong > ###TEST
+2015-10-28 00:48:02 < diablofong > 帥 支援markdown語法
+2015-10-28 04:49:11 < arken5447 > cool~
+2015-10-28 05:30:04 < johnroyer > 我覺得有 syntax highlight 最讚 XD
+2015-10-28 12:30:49 < unciax > 他有未讀訊息還會mail通知
+2015-10-29 03:48:40 < johnroyer > 人好像越來越多了
+大家午安
+2015-10-29 06:37:06 < helen-yeh > 咧囉~ 午安XD
+<---議程組 小葉
+2015-10-29 12:21:44 < Enyasu > 哈囉~~~我是公關組 Enya
+2015-10-29 12:22:00 < hobbyling > Hello, I'm Hobby!
+2015-10-29 18:26:48 < chusiang > 大家晚安。
+2015-10-30 05:39:11 < chusiang > ping chusiang-
+2015-10-30 06:04:08 < YuChengTsai > 😃
+2015-10-30 07:08:03 < zeroplex-bot > `KylinWu` ll
+2015-10-30 12:52:30 < hashman > 大家明天見
+2015-10-30 14:24:31 < zeroplex-bot > `zeroplex` @hashman: 明天沒看到你，我會找你算帳 XD
+2015-10-30 15:15:56 < zeroplex-bot > `DennyHuang_` 是說.. title 沒有要改 2015 嗎XD
+2015-10-30 15:16:03 < zeroplex-bot > `DennyHuang_` IRC 這邊的 topic
+2015-10-30 15:16:40 < hashman > 會啦
+2015-10-30 15:48:11 < zeroplex-bot > `zeroplex` DennyHuang_ : 這個要找 op 了 XD
+2015-10-30 16:09:05 < mkidyt > 大家晚安！
+2015-10-30 17:04:39 < zeroplex-bot > `enge` ni hao
+2015-10-30 17:04:51 < engerim42 > hi
+2015-10-30 17:05:04 < zeroplex-bot > `enge` :D :D
+2015-10-30 18:33:11 < zeroplex-bot > `chusiang` 開始比誰比較晚睡？大家晚安。
+2015-10-30 18:36:13 < zeroplex-bot > `chusiang` ping chusiang-
+2015-10-30 22:23:10 < johnroyer > 早安
+2015-10-31 00:26:27 < zeroplex-bot > `DanLu` 測試~~
+2015-10-31 00:26:38 < zeroplex-bot > `Luxun` 早安
+2015-10-31 00:26:43 < zeroplex-bot > `y5n` 早
+2015-10-31 00:26:46 < zeroplex-bot > `DanLu` 大家早安
+2015-10-31 00:26:51 < zeroplex-bot > `Martian` Morning!
+2015-10-31 00:53:27 < kaihuei0519 > 早安
+2015-10-31 00:54:25 < wupojung > 早安～
+2015-10-31 00:55:46 < kaihuei0519 > 屏東騎機車到高雄好遠啊～～QQ
+2015-10-31 00:56:24 < k7741118 > 早阿
+2015-10-31 00:56:31 < zeroplex-bot > `y5n` 早
+2015-10-31 00:56:43 < k7741118 > 從大樹到這裡好遠><
+2015-10-31 00:56:49 < zeroplex-bot > `thomastsaitw` 下一站 鹽埕埔
+2015-10-31 00:57:52 < passerbyid > 巨大招財貓@鹽埕埔站 八塔了。
+2015-10-31 00:59:45 < kaihuei0519 > 大樹在哪？
+2015-10-31 01:00:05 < keith222 > 在高雄阿xd
+2015-10-31 01:00:08 < keith222 > 大家早安～
+2015-10-31 01:00:34 < zeroplex-bot > `wei__` 早安
+2015-10-31 01:00:35 < tonyciou > 早安～～
+2015-10-31 01:00:44 < k7741118 > 高雄縣
+2015-10-31 01:01:01 < yllan > 早～
+2015-10-31 01:01:05 < k7741118 > 有住大樹的嗎?XD
+2015-10-31 01:03:27 < zeroplex-bot > `Hermes` test
+2015-10-31 01:03:48 < zeroplex-bot > `yrc` 安安
+2015-10-31 01:05:11 < zeroplex-bot > `KylinWu` hi~
+2015-10-31 01:06:03 < opjlmi > helloooooooo
+2015-10-31 01:08:21 < zeroplex-bot > `y5n` World
+2015-10-31 01:10:11 < zeroplex-bot > `andytwmvp` 總召jserv++
+2015-10-31 01:10:58 < t78973677 > 總召好讚
+2015-10-31 01:11:22 < wupojung > 為什麼  總召的時間沒有筆記可以做 XDD   
+2015-10-31 01:12:21 < t78973677 > 噓  不要問  很恐怖
+2015-10-31 01:12:59 < zeroplex-bot > `Aweimeow` ping
+2015-10-31 01:13:38 < mkidyt > COSCUP Jserv封麥是翟博士當主持，等等翟博士演講是Jserv主持
+2015-10-31 01:15:13 < wupojung > 這。。。  T⋯⋯T  今年COSCUP 沒有跟到  T⋯⋯T
+2015-10-31 01:17:15 < zeroplex-bot > `lego_` Hello~
+2015-10-31 01:17:35 < divazone > 早安
+2015-10-31 01:17:39 < t78973677 > 早安
+2015-10-31 01:17:56 < passerbyid > 工作人員表示他也不知道 R2 R3 在哪裡 XD
+2015-10-31 01:18:23 < t78973677 > 我也不知道！！
+2015-10-31 01:18:34 < kaihuei0519 > 4F 
+2015-10-31 01:18:49 < kaihuei0519 > 吧？
+2015-10-31 01:19:11 < k7741118 > R2 三樓
+2015-10-31 01:19:18 < k7741118 > R3 四樓
+2015-10-31 01:19:22 < t78973677 > 應該有平面圖
+2015-10-31 01:19:31 < kaihuei0519 > 手冊有寫～
+2015-10-31 01:19:41 < zeroplex-bot > `D-eye` 手冊裡有樓層平面圖
+2015-10-31 01:19:52 < mkidyt > R1在三樓，R2 R3在四樓
+2015-10-31 01:20:02 < YongYuH > 左邊兩個投影片歪掉了QQ
+2015-10-31 01:20:03 < zeroplex-bot > `y5n` r1 的有
+2015-10-31 01:20:07 < kaihuei0519 > R1 講者旁邊的投影片歪了 XDD
+2015-10-31 01:20:45 < zeroplex-bot > `NO_NAME_` 已歪
+2015-10-31 01:20:50 < t78973677 > 對捏  左邊歪了
+2015-10-31 01:20:53 < zeroplex-bot > `y5n` 應該有人踢到架子......
+2015-10-31 01:20:55 < kaihuei0519 > QQ
+2015-10-31 01:21:09 < zeroplex-bot > `thomastsaitw` 看右邊的
+2015-10-31 01:21:15 < divazone > 總覺得 左邊投影機歪歪的
+2015-10-31 01:21:24 < williesmithchen > 有工作人員可以協助調整嗎
+2015-10-31 01:21:33 < zeroplex-bot > `NO_NAME_` 我覺得兩邊歪的間距一模一樣www
+2015-10-31 01:21:37 < wupojung > 中間的銀幕 很
+2015-10-31 01:21:38 < wupojung > GG
+2015-10-31 01:22:05 < wupojung > R 1  左邊兩台 被吃了
+2015-10-31 01:22:22 < divazone > 網路被吃掉啦
+2015-10-31 01:22:36 < kaihuei0519 > 被小精靈吃掉拉～～
+2015-10-31 01:23:01 < t78973677 > 只好認真聽聲音了
+2015-10-31 01:23:05 < zeroplex-bot > `andytwmvp` 你看看你的D槽，有多少汙染在裡面
+2015-10-31 01:23:17 < williesmithchen > D槽www
+2015-10-31 01:23:36 < zeroplex-bot > `NO_NAME_` D:\useful\10times
+2015-10-31 01:23:55 < zeroplex-bot > `andytwmvp` 看17 wwwwww
+2015-10-31 01:24:02 < zeroplex-bot > `LegoChiang` 17?
+2015-10-31 01:24:13 < zeroplex-bot > `andytwmvp` 黃立成的APP
+2015-10-31 01:24:21 < t78973677 > 17是什麼？我不懂
+2015-10-31 01:24:22 < keith222 > 很有爭議性的app
+2015-10-31 01:24:38 < zeroplex-bot > `LegoChiang` LOL~
+2015-10-31 01:24:47 < fsyoungOcean > 作文比賽~好酸~
+2015-10-31 01:24:50 < divazone > 很多不乾淨的直播
+2015-10-31 01:25:08 < keith222 > 最近又重上架了xd
+2015-10-31 01:26:09 < zeroplex-bot > `DennyHuang_` 找一些專家學者來背書 才能推卸責任XDD
+2015-10-31 01:26:32 < kaihuei0519 > 都是專家學者的錯～～
+2015-10-31 01:26:45 < keith222 > 政府高層的腦袋..
+2015-10-31 01:26:57 < t78973677 > 開放地址
+2015-10-31 01:27:15 < keith222 > 可是有些機關連地址開放都....
+2015-10-31 01:28:24 < divazone > 擔心資料安全之類的
+2015-10-31 01:29:40 < keith222 > 想到最近open data在討論 資料隱私的問題
+2015-10-31 01:29:55 < t78973677 > 外國研究文 重點！
+2015-10-31 01:29:58 < LuxunHuang > 英國研究 XDD
+2015-10-31 01:30:00 < kaihuei0519 > 英國！
+2015-10-31 01:30:13 < zeroplex-bot > `yrc` (UK)
+2015-10-31 01:30:27 < kaihuei0519 > open data 應該不能涉及所謂的私人資料
+2015-10-31 01:30:41 < kaihuei0519 > 不過，如何去界定就變成問題...
+2015-10-31 01:30:55 < keith222 > 沒錯
+2015-10-31 01:31:53 < dwatow > 投影機沒得調嗎？
+2015-10-31 01:32:15 < shih0810 > 前方冷氣
+2015-10-31 01:33:20 < zeroplex-bot > `Sciuridae_cloud` 後方暖氣
+2015-10-31 01:34:57 < t78973677 > http://data.gov.tw/data_list_topi
+很多類
+2015-10-31 01:35:20 < divazone > 找不到網頁
+2015-10-31 01:35:24 < passerbyid > 終於找到樓梯了XD
+2015-10-31 01:35:37 < keith222 > 結尾應該是topic
+2015-10-31 01:36:13 < divazone > thx
+2015-10-31 01:36:55 < t78973677 > http://data.gov.tw/
+這應該就可以了
+2015-10-31 01:37:16 < kaihuei0519 > http://data.gov.tw/data_list_topic
+2015-10-31 01:37:20 < divazone > 政府所謂危險的定義好像像是根本不應該放在網路上？XD
+2015-10-31 01:37:41 < keith222 > 知道的太多了(? XD
+2015-10-31 01:37:49 < kaihuei0519 > 有網路都很危險～（笑
+2015-10-31 01:37:53 < wupojung > AP快掛了？？
+2015-10-31 01:38:18 < dwatow > 給別人知道=出錯的機會大增
+2015-10-31 01:38:52 < divazone > 所謂資料正確性基本上本來就是提供者負責啊 跟公不公開好像沒關係啊
+2015-10-31 01:42:11 < zeroplex-bot > `D-eye` 提醒大家！在R3的下一場議程和手冊不同，已網頁為主唷！
+2015-10-31 01:42:41 < kaihuei0519 > 求 讓氣象局掛掉的手機廠～（笑
+2015-10-31 01:42:52 < zeroplex-bot > `XiaoJunHong_m` Wi-Fi 可以連惹
+2015-10-31 01:46:08 < zeroplex-bot > `jeremy5189` Hello
+2015-10-31 01:46:26 < zeroplex-bot > `XiaoJunHong_m` 意圖誘拐，不是!! 是說服 XD
+2015-10-31 01:49:39 < passerbyid > R2 的 kkbox 掛反變成 kkpox
+2015-10-31 01:50:06 < t78973677 > 連點   我被蚊子咬了
+2015-10-31 01:50:15 < wildjcrt > 紫爆！！
+2015-10-31 01:51:46 < t78973677 > 靠北路霸！！
+2015-10-31 01:51:57 < divazone > 各種靠北！
+2015-10-31 01:52:57 < zeroplex-bot > `Shen` Hi
+2015-10-31 01:53:17 < zeroplex-bot > `LegoChiang` Hello~
+2015-10-31 01:53:27 < kaihuei0519 > hi
+2015-10-31 01:53:45 < t78973677 > 一起黑客松
+2015-10-31 01:55:15 < kaihuei0519 > 一起黑政府～ （誤
+2015-10-31 01:58:34 < t78973677 > 哪一家食品公司捏？
+2015-10-31 01:58:43 < wildjcrt > 該不會是義美 XD
+2015-10-31 01:59:20 < divazone > 很食安不資安的公司？XD
+2015-10-31 02:00:38 < zeroplex-bot > `Aweimeow` 這裡有電源可以充電嗎？
+2015-10-31 02:00:55 < wupojung > AWS快哭了～～
+2015-10-31 02:01:44 < mkidyt > 手冊平面圖有充電區喔，電梯附近
+2015-10-31 02:02:06 < mkidyt > 更正 R1附近
+2015-10-31 02:02:28 < zeroplex-bot > `MouseMs` test 中文
+2015-10-31 02:02:45 < zeroplex-bot > `WaitingChen` 好像這次議程有講AWS的講者XD
+2015-10-31 02:02:56 < zeroplex-bot > `WaitingChen` 開場就被黑了
+2015-10-31 02:03:40 < zeroplex-bot > `Aweimeow` 我是想要充筆電的 Q__Q 希望能在會場內，不然寫共筆很快就沒電了
+2015-10-31 02:03:54 < wupojung > AWS 表示：  M$ 跟我搶就算了， Ben神 也跟我搶XDD
+2015-10-31 02:05:30 < zeroplex-bot > `whitglint` 鍵盤參加
+2015-10-31 02:06:07 < wupojung > 可以調整一下 投影機嗎。。。想哭
+2015-10-31 02:07:44 < yllan > 聽者帶 laptop 的比例高嗎？
+2015-10-31 02:07:52 < zeroplex-bot > `WaitingChen` Mopcon的場地不像Coscup ，有天生限制，果斷不帶充電器了XD
+2015-10-31 02:08:44 < zeroplex-bot > `LegoChiang` 請問R3的議程有做更改是....？
+2015-10-31 02:08:54 < zeroplex-bot > `LegoChiang` 我看官網似乎是一樣
+2015-10-31 02:09:38 < zeroplex-bot > `ScottChen` 改蠻多的
+2015-10-31 02:09:56 < zeroplex-bot > `LegoChiang` 那請問哪裡看的到=口=~~
+2015-10-31 02:10:24 < zeroplex-bot > `ScottChen` 手冊把明天的放到今天了
+2015-10-31 02:11:39 < zeroplex-bot > `LegoChiang` 歐~~~原來我看到的是已經改過的...
+2015-10-31 02:11:55 < FrankLin3501 > 網頁的沒有錯
+2015-10-31 02:11:57 < zeroplex-bot > `ScottChen` 官網上有正確的
+2015-10-31 02:14:27 < williesmithchen > 沒有插座噴電超快
+2015-10-31 02:14:46 < zeroplex-bot > `y3n` 插座qq
+2015-10-31 02:15:31 < wupojung > 我直接忽略 手冊XDD
+2015-10-31 02:15:54 < wupojung > 問個蠢問題。。。。大會衣服 有賣嗎？XD
+2015-10-31 02:16:55 < zeroplex-bot > `[R1]NO_NAME` 換右邊歪了
+2015-10-31 02:21:18 < zeroplex-bot > `Aweimeow` R1 的右側投影機 GG
+2015-10-31 02:21:41 < zeroplex-bot > `Aweimeow` 是不是投影機被ㄎㄟˊ到了
+2015-10-31 02:22:35 < zeroplex-bot > `XiaoJunHong` 女生包包有五個以上的舉手 XD
+2015-10-31 02:23:08 < divazone > 剛剛會場WIFI 我的Mac突然連不上
+2015-10-31 02:23:50 < zeroplex-bot > `DennyHuang` R2 右側投影機顫抖中XD
+2015-10-31 02:24:13 < t78973677 > 包包不是多一樣嗎
+2015-10-31 02:24:45 < t78973677 > 鞋子一雙就夠了啊
+2015-10-31 02:25:40 < zeroplex-bot > `ScottChen` Win10~~~~~~
+2015-10-31 02:26:24 < chyuaner > 請問今天有共筆嗎？像是Hackpad之類的？
+2015-10-31 02:26:28 < zeroplex-bot > `Aweimeow` Q___Q 真的沒人能救投影機嗎
+2015-10-31 02:26:31 < zeroplex-bot > `Aweimeow` http://hackfoldr.org/MOPCON-2015/jO85QUQsrhR
+2015-10-31 02:27:07 < chyuaner > 感謝！
+2015-10-31 02:30:03 < zeroplex-bot > `WaitingChen` 這次大會有官方直播嗎？
+2015-10-31 02:33:12 < mkidyt > 瑞士刀www
+2015-10-31 02:33:33 < zeroplex-bot > `XiaoJunHong`  功能都有了，超帥氣的RRR...
+2015-10-31 02:33:58 < zeroplex-bot > `ScottChen` 想要那把瑞士刀wwwwww
+2015-10-31 02:34:06 < zeroplex-bot > `ggininder` 尊爵不凡阿！！
+2015-10-31 02:34:08 < zeroplex-bot > `XiaoJunHong` 想偷偷問 mopcon-bot 的來源是哪裡啊 OwO
+2015-10-31 02:34:13 < divazone > IRC
+2015-10-31 02:34:30 < divazone > 說錯 gitter
+2015-10-31 02:34:44 < zeroplex-bot > `xavier88` 報稅程式是用delphi開發的 qq
+2015-10-31 02:35:46 < zeroplex-bot > `D-eye` mopcon-bot 是網頁版的IRC, gitter
+2015-10-31 02:36:24 < zeroplex-bot > `XiaoJunHong` 原來如此（筆記翻頁
+2015-10-31 02:37:12 < zeroplex-bot > `lego_` 話說... http://mopcon.org/2015/schedule.php 為什麼日期那條有一條css rule width:105vw 導致跑版 為什麼要有這條阿..
+2015-10-31 02:37:24 < zeroplex-bot > `ScottChen` 寫程式好累，來賣雞排好了
+2015-10-31 02:37:43 < zeroplex-bot > `ggininder` 要切 不要辣，謝謝
+2015-10-31 02:38:00 < zeroplex-bot > `DennyHuang` 聽說賣滷味比較省事
+2015-10-31 02:38:20 < zeroplex-bot > `y3n` 好吃的雞排也是一種技術啊
+2015-10-31 02:38:54 < zeroplex-bot > `divazone` test
+2015-10-31 02:40:37 < zeroplex-bot > `divazone` 大部分廠商不敢真正demo車牌影像辨識
+2015-10-31 02:41:10 < zaoldyeck > @chyuaner Hackpad從官網進入 http://hackfoldr.org/MOPCON-2015/
+2015-10-31 02:42:51 < zeroplex-bot > `whitglint` 因為 sql injection 嗎? (X
+2015-10-31 02:43:25 < zeroplex-bot > `y3n` Whitglint 你也有來?
+2015-10-31 02:43:35 < zeroplex-bot > `whitglint` 鍵盤參加
+2015-10-31 02:44:15 < wupojung > 影片好像在哪裡看過 QQ
+2015-10-31 02:44:36 < divazone > 哪部影片？
+2015-10-31 02:45:00 < zeroplex-bot > `y3n` Lpr 影像辨識
+2015-10-31 02:46:20 < wupojung > r1 使用者歷程地圖
+2015-10-31 02:46:46 < zeroplex-bot > `divazone` 想請問一下會場附近有沒有推薦吃的店
+2015-10-31 02:47:06 < zeroplex-bot > `mikechouto` 同問 XD
+2015-10-31 02:47:30 < zeroplex-bot > `y3n` 餓了
+2015-10-31 02:47:37 < zeroplex-bot > `ggininder` 沒吃早餐qq
+2015-10-31 02:48:11 < zeroplex-bot > `ScottChen` 記得要去菜市場那找
+2015-10-31 02:48:22 < zeroplex-bot > `ScottChen` 或麥當勞
+2015-10-31 02:48:24 < zeroplex-bot > `divazone` 是說目前R3講者還沒講到不要在雲端上作影像辨識的原因啊
+2015-10-31 02:50:40 < zeroplex-bot > `ScottChen` 重點：只要多付一點錢
+2015-10-31 02:51:26 < mkidyt > 沒有wifi   www
+2015-10-31 02:51:35 < zeroplex-bot > `ScottChen` 為了延續夢想竟然沒有WIFI
+2015-10-31 02:52:20 < zeroplex-bot > `lego_` 然後有提供ether這樣
+2015-10-31 02:52:40 < zeroplex-bot > `ScottChen` 使用者不會用，使用者好笨啊哈哈哈
+2015-10-31 02:53:50 < taxeswang > 可是有些使用者連想要什麼都說不出來～或是需求改來改去～
+2015-10-31 02:56:39 < xhtwj > R1的投影機解析度錯誤就是UX！
+2015-10-31 02:58:56 < zeroplex-bot > `Guest64221` 附近有義美門市～
+2015-10-31 02:59:03 < zeroplex-bot > `XiaoJunHong` 經理級 XD
+2015-10-31 02:59:16 < chyuaner > R2 講Gradle的，投影片有釋出嗎？有不少腳本和Code，想之後慢慢看
+2015-10-31 02:59:50 < zeroplex-bot > `ScottChen` 主管：因為我喜歡啊
+2015-10-31 03:00:17 < wahaha0231 > R2有無投影片？
+2015-10-31 03:00:33 < zeroplex-bot > `XiaoJunHong` R1 「糟糕，這個有錄影耶」 XDDDDD
+2015-10-31 03:00:47 < zeroplex-bot > `y3n` Xd
+2015-10-31 03:02:42 < Jackson45252 > 或許使用者不需要穿衣服(大誤
+2015-10-31 03:02:46 < zeroplex-bot > `y3n` 從後端做辨識成本太高，從前端做
+2015-10-31 03:03:06 < Jackson45252 > 他是要拿來洗貓咪(獵奇
+2015-10-31 03:05:12 < zeroplex-bot > `ScottChen` 大學生比較有錢
+2015-10-31 03:05:20 < zeroplex-bot > `XiaoJunHong` 大學生比較有錢
+2015-10-31 03:08:51 < zeroplex-bot > `ScottChen` 通靈XD
+2015-10-31 03:10:26 < taxeswang > 所以工程師另外一個別稱叫乩童
+2015-10-31 03:12:07 < zeroplex-bot > `y3n` R3 結束
+2015-10-31 03:14:05 < zeroplex-bot > `XiaoJunHong` 地板微晃動 ww
+2015-10-31 03:16:07 < zeroplex-bot > `y3n` 難得有個頻道出現的帳號幾乎都不認識
+2015-10-31 03:18:29 < zeroplex-bot > `divazone` XDD
+2015-10-31 03:20:56 < zeroplex-bot > `divazone` 我的產品很好 .> 只是沒人要用
+2015-10-31 03:21:01 < zeroplex-bot > `lego_` hi
+2015-10-31 03:21:21 < Enyasu > 有人覺得R2很冷嗎?
+2015-10-31 03:21:30 < Jackson45252 > 很冷+1
+2015-10-31 03:21:36 < hobbyling > R3也頗冷
+2015-10-31 03:21:39 < zeroplex-bot > `XiaoJunHong` 就像某台機車一樣 XDDD
+2015-10-31 03:21:47 < Enyasu > 分一點給R1吧
+2015-10-31 03:21:53 < zeroplex-bot > `DanLu` R2好冷++
+2015-10-31 03:22:27 < taxeswang > 顧顧路那台機車嗎？
+2015-10-31 03:22:35 < zeroplex-bot > `lego_` 我錯了 應該帶外套的
+2015-10-31 03:22:40 < Jackson45252 > R1看地方 有些地方也很冷
+2015-10-31 03:22:44 < yulin0629 > 前面不會冷
+2015-10-31 03:22:47 < yulin0629 > 第一排
+2015-10-31 03:23:18 < divazone > 故陸陸大暴衝
+2015-10-31 03:23:25 < divazone > 故陸陸
+2015-10-31 03:23:58 < zeroplex-bot > `lego_` R2右邊投影機一直抖
+2015-10-31 03:24:11 < Enyasu > 哈哈
+2015-10-31 03:24:15 < Enyasu > 我發現了!!!!
+2015-10-31 03:24:22 < zeroplex-bot > `pastleo` hello
+2015-10-31 03:24:24 < Enyasu > 他很冷
+2015-10-31 03:24:52 < yulin0629 > 現在帝寶一戶要三億了
+2015-10-31 03:24:53 < zeroplex-bot > `pastleo` 頗抖
+2015-10-31 03:24:55 < Enyasu > @zeroplex-bot 嗨~~~
+2015-10-31 03:25:15 < zeroplex-bot > `XiaoJunHong` 牛排住帝寶
+2015-10-31 03:26:20 < yulin0629 > 
+2015-10-31 03:27:08 < zeroplex-bot > `ggininder` 想吃牛排了好餓
+2015-10-31 03:27:45 < divazone > 創業很容易失敗QQ
+2015-10-31 03:29:13 < taxeswang > 冷爆了～～明天要帶羽絨衣來了
+2015-10-31 03:30:47 < zeroplex-bot > `yrc` 羽絨衣也太誇張
+2015-10-31 03:31:18 < zeroplex-bot > `HCLD` 決定明天不開冷氣
+2015-10-31 03:31:39 < zeroplex-bot > `XiaoJunHong` 從暖暖包開始吧（？
+2015-10-31 03:31:53 < divazone > 外面挺熱的（?
+2015-10-31 03:32:14 < zeroplex-bot > `XiaoJunHong` 請外面打開冷氣好嗎（？
+2015-10-31 03:33:25 < zeroplex-bot > `allan914` 我覺得
+2015-10-31 03:33:32 < zeroplex-bot > `allan914` R1第一排很冷啊 XD
+2015-10-31 03:34:33 < zeroplex-bot > `XiaoJunHong` 發現擋住冷氣的人（？
+2015-10-31 03:34:46 < yulin0629 > 講者手上有一個發出綠光的remote control
+2015-10-31 03:34:54 < zeroplex-bot > `divazone` R1最後一排覺得還好XD
+2015-10-31 03:36:13 < Jackson45252 > 地方的阿姨需要客人
+2015-10-31 03:36:52 < chyuaner > R2坐在中間，剛好遇到通風口，★愉☆悅★
+2015-10-31 03:37:33 < zeroplex-bot > `divazone` 不知道該不該吃的店,然後跑去賣噹噹（X
+2015-10-31 03:38:27 < zeroplex-bot > `divazone` 舉例看起來麥噹噹行銷超好
+2015-10-31 03:41:23 < zeroplex-bot > `Wemy` 你有看到麥噹噹的landing page嗎
+2015-10-31 03:41:38 < zeroplex-bot > `XiaoJunHong` 大大的M算嗎（？
+2015-10-31 03:41:52 < zeroplex-bot > `divazone` 各種主題特餐
+2015-10-31 03:42:09 < zeroplex-bot > `Wemy` 原本想吃小吃 走一走看到M就進去了(X
+2015-10-31 03:42:11 < zeroplex-bot > `GGininder_` 午餐時間 餓了
+2015-10-31 03:42:24 < yulin0629 > @zeroplex-bot 之前有個招募酒店小姐的Landing 也做的很好
+2015-10-31 03:42:45 < zeroplex-bot > `xavier88` 投影機餓到發抖了…
+2015-10-31 03:42:48 < Jackson45252 > 喔喔 那個我記得!! 根本感覺不像一般酒店招募
+2015-10-31 03:42:53 < zeroplex-bot > `XiaoJunHong` 好煩喔，一直出現食物的畫面... QQ
+2015-10-31 03:42:58 < zeroplex-bot > `lego_` R2 live demo demo
+2015-10-31 03:43:11 < yulin0629 > 出現了
+2015-10-31 03:43:16 < zeroplex-bot > `thomastsaitw` Live dwmo 的剋星
+2015-10-31 03:43:17 < Jackson45252 > 剛說就PO了 大大神預測
+2015-10-31 03:43:20 < zeroplex-bot > `GGininder_` 來了
+2015-10-31 03:43:25 < zeroplex-bot > `WaitingChen` R2表示demo都會有問題，所以我放影片就好了
+2015-10-31 03:43:53 < zeroplex-bot > `divazone` 月入六位數（？！
+2015-10-31 03:44:06 < zeroplex-bot > `GGininder_` 工程師哭哭喔
+2015-10-31 03:44:23 < zeroplex-bot > `divazone` 飯局女太猛惹
+2015-10-31 03:44:43 < yulin0629 > @zeroplex-bot 看得我都心動了
+2015-10-31 03:44:44 < prprprpony > Never live demo
+2015-10-31 03:45:16 < Jackson45252 > 招募工程師-搞個"摳丁男孩"
+2015-10-31 03:45:17 < zeroplex-bot > `XiaoJunHong` 降低疑慮，增加信心
+2015-10-31 03:45:31 < zeroplex-bot > `XiaoJunHong` 摳丁男孩 XDDDDDDDDDDD
+2015-10-31 03:45:39 < zeroplex-bot > `divazone` 不要看起來很屌但不能幹嘛
+2015-10-31 03:45:42 < zeroplex-bot > `Wemy` 說說你首圖想擺什麼...
+2015-10-31 03:45:52 < zeroplex-bot > `Wemy` XDDDD
+2015-10-31 03:45:57 < zeroplex-bot > `y3n` r3好冷....
+2015-10-31 03:46:13 < Jackson45252 > 哈 landing page就卡住了www
+2015-10-31 03:46:18 < zeroplex-bot > `XiaoJunHong` 看著首圖，會莫名的跪下吧... QQ
+2015-10-31 03:46:41 < Jackson45252 > 放個賈伯斯之類的意象(?
+2015-10-31 03:46:57 < zeroplex-bot > `divazone` 承襲jserv教你寫程式啊（？
+2015-10-31 03:47:08 < wupojung > 其實。。。大家都是通靈者～～ 
+2015-10-31 03:47:11 < zeroplex-bot > `Wemy` 那啥...說好的男孩呢（敲碗）（不是）
+2015-10-31 03:47:38 < zeroplex-bot > `divazone` 改成摳頂大叔
+2015-10-31 03:47:42 < zeroplex-bot > `XiaoJunHong` jserv不好嗎 QQ
+2015-10-31 03:47:55 < Jackson45252 > 我就是不懂才坐在這邊麻otz
+2015-10-31 03:48:14 < zeroplex-bot > `XiaoJunHong` 科學性的方法
+2015-10-31 03:49:08 < zeroplex-bot > `IDN_` 放一張少年jserv的照片（？
+2015-10-31 03:49:24 < zeroplex-bot > `divazone` wwwww
+2015-10-31 03:49:54 < yulin0629 > 好像需要開三個room
+2015-10-31 03:52:10 < yulin0629 > 吃了小菜之後真的很難閃
+2015-10-31 03:52:13 < taxeswang > 中午肚子餓還一直講食物～～R1很煎熬
+2015-10-31 03:52:14 < zeroplex-bot > `XiaoJunHong` R1 根本點菜，也太餓... Orzzzz
+2015-10-31 03:52:33 < divazone > 可惡想吃飯啊QAQQQQ
+2015-10-31 03:53:06 < zeroplex-bot > `XiaoJunHong` 滴了三滴，立刻覺得賺到了（？
+2015-10-31 03:53:07 < zeroplex-bot > `GGininder_` 跪求推薦附近美食 求大神寫APP了XDD
+2015-10-31 03:53:15 < wupojung > 超壞的R
+2015-10-31 03:53:18 < wupojung > R1
+2015-10-31 03:53:21 < Jackson45252 > 求那間鐵板燒地址wwwwwwww
+2015-10-31 03:53:24 < zeroplex-bot > `hey` ?
+2015-10-31 03:53:49 < divazone > 等等要出去覓食阿
+2015-10-31 03:54:08 < Jackson45252 > 我記得有提供便當?
+2015-10-31 03:55:04 < divazone > 學生票沒便當
+2015-10-31 03:55:28 < prprprpony > R2:真的超便宜
+2015-10-31 03:55:29 < zeroplex-bot > `heyhey` 外出覓食
+2015-10-31 03:55:31 < prprprpony > wwww
+2015-10-31 03:55:55 < zeroplex-bot > `XiaoJunHong` 原來如此，所以等等大大的M會充滿學生這樣 ww
+2015-10-31 03:57:39 < divazone > 來南部應該要吃丹丹吧XDDD
+2015-10-31 03:58:16 < zeroplex-bot > `XiaoJunHong` 嘿Siri，告訴我附近的丹丹
+2015-10-31 03:58:23 < zeroplex-bot > `unciax` 丹丹西子灣那邊有
+2015-10-31 03:58:55 < zeroplex-bot > `IDN_` 高雄市鼓山區臨海二路24號
+2015-10-31 03:58:56 < zeroplex-bot > `heyhey` siri : 今天 5:00 二廳有
+2015-10-31 03:58:59 < zeroplex-bot > `y3n` 旦旦讚
+2015-10-31 03:59:03 < divazone > 我早餐吃了丹丹 等等午餐可能也要丹丹了
+2015-10-31 03:59:31 < zeroplex-bot > `XiaoJunHong` 丹丹吃丹丹（被打
+2015-10-31 04:00:23 < zeroplex-bot > `GGininder_` 想吃丹丹
+2015-10-31 04:00:43 < zeroplex-bot > `heyhey` 丹丹漢堡請講者丹丹吃丹丹漢堡丹丹可樂，丹丹說好
+2015-10-31 04:00:57 < yulin0629 > 好餓
+2015-10-31 04:01:01 < zeroplex-bot > `divazone` Denny出來面對（X
+2015-10-31 04:01:14 < yulin0629 > xdite的演講都是吃的
+2015-10-31 04:01:18 < zeroplex-bot > `XiaoJunHong` 某種程度來說，丹丹首圖有效M？
+2015-10-31 04:01:46 < zeroplex-bot > `GGininder_` 請問譁達奶茶 推薦嗎
+2015-10-31 04:01:47 < zeroplex-bot > `XiaoJunHong` 光明路五號
+2015-10-31 04:01:49 < yulin0629 > 光明路5號
+2015-10-31 04:02:21 < zeroplex-bot > `heyhey` 野生的會眾放出來啦！
+2015-10-31 04:02:40 < yulin0629 > 講話好快
+2015-10-31 04:03:05 < zeroplex-bot > `heyhey` 場務組警戒啦！
+2015-10-31 04:03:42 < divazone > http://ksdelicacy.pixnet.net/blog/post/57736350-%E9%B9%BD%E5%9F%95%E5%9F%94%E6%8D%B7%E9%81%8B%E7%AB%99%E9%80%B1%E9%82%8A%E7%BE%8E%E9%A3%9F50%E9%96%93x%E7%B2%BE%E9%81%B8%E5%B0%8F%E5%90%8310%E9%96%93(2015
+2015-10-31 04:03:47 < divazone > 不知道能不能參考
+2015-10-31 04:25:25 < zeroplex-bot > `unciax` [公告] 目前開放學生票領取便當 想要吃便當的會眾請到便當領取區領取
+2015-10-31 05:05:03 < mkidyt > 伊藤潤二wwww
+2015-10-31 05:05:05 < kewang > 為什麼R1講者旁邊的投影機一直沒辦法正確顯示啊= =
+2015-10-31 05:05:23 < wupojung > R1 左2  又又鬼了 ＝ ＝
+2015-10-31 05:05:32 < zeroplex-bot > `IDN_` R1本來切左邊，現在切上面
+2015-10-31 05:08:22 < xhtwj > 「一定有👻動了投影機的設定」
+2015-10-31 05:09:00 < wupojung > 因為投影機還沒有通靈 ～
+2015-10-31 05:10:52 < zeroplex-bot > `[R2]Mouther` 通靈你也懂
+2015-10-31 05:13:08 < wupojung > 略懂略懂。。。
+2015-10-31 05:14:26 < zeroplex-bot > `ggininder_` R2畫面不見了
+2015-10-31 05:14:47 < zeroplex-bot > `wei__` R2 畫面進入螢幕保護程式
+2015-10-31 05:16:15 < aacczury > R3 雜音好大啊XD
+2015-10-31 05:17:36 < zeroplex-bot > `y5n` R3 g2g
+2015-10-31 05:18:25 < wupojung > 這件事件告訴我們不要亂跟 鬼 開玩笑：P
+2015-10-31 05:37:38 < taxeswang > 下午吃飽了特別好睡～～R3趴一堆了～～
+2015-10-31 05:38:29 < zeroplex-bot > `ggininder_` R2螢幕又在保護城市了XD
+2015-10-31 05:38:59 < hsinnan > Ｒ2筆電也趴了
+2015-10-31 05:39:03 < zeroplex-bot > `y5n` R3 有點冷
+2015-10-31 05:39:18 < wupojung > 尷尬。。。等等想去R2 的說
+2015-10-31 05:40:46 < zeroplex-bot > `BeataLin_` R2 BGM 有點搶戲
+2015-10-31 05:41:10 < zeroplex-bot > `y5n` Bgm 名稱是什麼?
+2015-10-31 05:41:44 < zeroplex-bot > `BeataLin_` 背景音樂，目前狀況已排除
+2015-10-31 05:42:11 < zeroplex-bot > `y5n` 不，我想知道這背景音樂的名稱
+2015-10-31 05:42:28 < zeroplex-bot > `derekhsu_` 用這麼熱血的音樂是？
+2015-10-31 05:44:21 < zeroplex-bot > `BeataLin_` 身為木耳，聽不出來
+2015-10-31 05:46:52 < zeroplex-bot > `[R2]Mouther` 聽說R1第一排有人一直在睡＠＠
+2015-10-31 05:55:44 < Ennone > BGM是大神的配樂
+2015-10-31 05:57:15 < wupojung > R2 右邊再發抖 。。。
+2015-10-31 05:57:33 < wupojung > T⋯⋯T
+2015-10-31 06:00:19 < zeroplex-bot > `Aweimeow` R2 右側的投影機持續抖動中
+2015-10-31 06:00:22 < zeroplex-bot > `Aweimeow` 超自然震動
+2015-10-31 06:00:30 < zeroplex-bot > `XiaoJunHong` R1 「看到主持人比我緊張，我就比較不緊張」
+2015-10-31 06:01:16 < focaaby > 兩點了，hackpad掛惹 XDDDDDDD
+2015-10-31 06:01:19 < zeroplex-bot > `Aweimeow` hackpad 又掛了嗎
+2015-10-31 06:01:25 < zeroplex-bot > `Aweimeow` XDDD
+2015-10-31 06:01:32 < focaaby > 因為1400了 XDDDDD
+2015-10-31 06:01:41 < gitjolin > 請問冷氣可以調整嗎？快變冰棒啦
+2015-10-31 06:02:18 < zeroplex-bot > `[R2]Mouther` 請問樓上是哪一廳？
+2015-10-31 06:02:20 < hobbyling > R3也需要
+2015-10-31 06:02:50 < kitah > 行者看起來好棒
+2015-10-31 06:04:51 < viator75 > R2右側投影機在發抖！
+2015-10-31 06:05:15 < zeroplex-bot > `[R3]NO_NAME` 早上就這樣了
+2015-10-31 06:05:28 < gitjolin > 是太冷發抖了嗎？
+2015-10-31 06:05:46 < wupojung > 所以我跑來左邊 跟大家一起擠
+2015-10-31 06:05:52 < viator75 > 應該是，剛好在風口下
+2015-10-31 06:06:09 < taxeswang > BB Call用過（舉手）
+2015-10-31 06:09:26 < yulin0629 > Line買Pizza感覺很方便
+2015-10-31 06:09:55 < zeroplex-bot > `divazone` LINE買PIZZA 不是直接去網站訂嗎？
+2015-10-31 06:10:19 < zeroplex-bot > `Aweimeow` 求工作人員大大處理 R2 右邊投影機的震動 Q__Q
+2015-10-31 06:10:25 < zeroplex-bot > `XiaoJunHong` 嘿Siri，用LINE買Pizza
+2015-10-31 06:10:56 < zeroplex-bot > `alicekey` R3 太冷+1
+2015-10-31 06:11:30 < yulin0629 > 所以以後可以用Line搭小黃
+2015-10-31 06:11:59 < yulin0629 > 和報警
+2015-10-31 06:12:14 < zeroplex-bot > `[R3]NO_NAME` 反應一下冷氣吧...好冷
+2015-10-31 06:12:17 < zeroplex-bot > `XiaoJunHong` 嘿Siri，用LINE報警
+2015-10-31 06:12:31 < taxeswang > 現在已經可以用ＡＰＰ報警了
+2015-10-31 06:12:49 < wupojung > 嘿 siri ...用line 幫我coding  （誤
+2015-10-31 06:13:03 < zeroplex-bot > `[R2]Mouther` R2 估計等這個 session 結束之後，才能處理投影機問題
+2015-10-31 06:13:17 < zeroplex-bot > `XiaoJunHong` App 在 monkey test 的時候就狂報警（？
+2015-10-31 06:13:18 < zeroplex-bot > `derekhsu` 牆角真的很冷
+2015-10-31 06:13:57 < yulin0629 > 用Line幫你神路人
+2015-10-31 06:14:25 < Jackson45252 > Line神?
+2015-10-31 06:16:02 < wupojung > 不過授權金 正式收費以後 很可怕（小聲說）
+2015-10-31 06:16:10 < zeroplex-bot > `divazone` 只要LINE有17一半的功能就考慮（
+2015-10-31 06:16:30 < yulin0629 > 問冰箱感覺其實很怪
+2015-10-31 06:16:39 < wupojung > JSDC 問到的價格 10萬／月 
+2015-10-31 06:16:48 < wupojung > 左右。。。
+2015-10-31 06:16:54 < zeroplex-bot > `[R2]Mouther` [公告] 4樓廁所撿到白色sony手機，請遺失的會眾到櫃檯領取
+2015-10-31 06:17:27 < zeroplex-bot > `divazone` LINE的服務越來越好是不錯 不過帳號上的安全問題 我覺得還是有點不太好
+2015-10-31 06:17:28 < zeroplex-bot > `XiaoJunHong` 「嘿LINE，冰箱還有幾瓶啤酒？」「有三瓶過期的啤酒」
+2015-10-31 06:17:39 < zeroplex-bot > `divazone` 之前都有人被盜帳號
+2015-10-31 06:18:01 < wupojung > R2 大家都好快喔
+2015-10-31 06:18:22 < zeroplex-bot > `[R3]NO_NAME_` SARS硬碟？
+2015-10-31 06:18:43 < yulin0629 > 用Line開門好了
+2015-10-31 06:18:44 < zeroplex-bot > `XiaoJunHong` 「嘿LINE，有幾個好友被盜？」「計算中...」
+2015-10-31 06:21:08 < taxeswang > R3的冷氣不用錢～～～～～（抖）
+2015-10-31 06:24:37 < zeroplex-bot > `derekhsu` 「嘿LINE，冰箱還有幾瓶啤酒？」「本來有三罐，一罐被隔壁的老王喝掉了」
+2015-10-31 06:24:51 < zeroplex-bot > `IDN_` Line的VoIP有時候也不是很順暢（X
+2015-10-31 06:25:22 < zeroplex-bot > `XiaoJunHong` 「嘿LINE，凍結隔壁老王」
+2015-10-31 06:25:26 < yulin0629 > 那台冰箱我要買
+2015-10-31 06:25:37 < gitjolin > LINE可以幫我寫程式嗎?
+2015-10-31 06:25:49 < zeroplex-bot > `ggininder_` yjo4urp4
+2015-10-31 06:26:07 < zeroplex-bot > `XiaoJunHong` 一年要幾百萬...
+2015-10-31 06:26:20 < zeroplex-bot > `ggininder_` 最近yahoo的十秒完成拍賣 應該也是這個吧
+2015-10-31 06:26:23 < wupojung > 還不含後面的 分析服務XD
+2015-10-31 06:26:33 < yulin0629 > Line直播
+2015-10-31 06:27:00 < zeroplex-bot > `XiaoJunHong` 直播老王（？
+2015-10-31 06:28:35 < AugustusW > LINE的服務有點貴 可能不想氾濫吧
+2015-10-31 06:29:07 < yulin0629 > 個人沒有的話，就不好玩了
+2015-10-31 06:29:22 < gitjolin > 所以是要有幾百萬才可以玩的意思嗎？好吧...老王 你可以繼續喝啤酒了
+2015-10-31 06:29:29 < AugustusW > 今天看到攤位介紹以為終於有開放個人使用
+2015-10-31 06:30:00 < zeroplex-bot > `XiaoJunHong` 有種微軟 .NET 的感覺
+2015-10-31 06:32:36 < zeroplex-bot > `XiaoJunHong` MOPCON應該要全大寫嗎 O__O
+2015-10-31 06:33:16 < zeroplex-bot > `divazone` 應該
+2015-10-31 06:37:10 < zeroplex-bot > `divazone` 達美樂：不要來亂
+2015-10-31 06:37:28 < shih0810 > Line的ipad都不能傳貼圖⋯說好的使用者只要的是功能呢
+2015-10-31 06:38:10 < mouse170 > telegram歡迎你
+2015-10-31 06:38:33 < zeroplex-bot > `y3n` Telegram 讚
+2015-10-31 06:38:40 < zeroplex-bot > `divazone` 女子高中生>////<
+2015-10-31 06:50:01 < passerbyid > 請問剛剛 line 那場，女子高中生的語意分析叫啥名？
+2015-10-31 06:55:19 < mouse170 > @passerbyid http://rinna.jp
+2015-10-31 07:18:36 < passerbyid > @mouse170 感恩
+2015-10-31 07:20:48 < chyuaner > 請問目前 Gradle 不只自動化而且更敏捷 投影片已經放出來了嗎？
+我可以從那邊找到？
+2015-10-31 07:32:51 < zeroplex-bot > `cber` 安安
+2015-10-31 07:33:05 < zeroplex-bot > `Hermes` 嗨嗨
+2015-10-31 07:34:32 < luhaoming > Gandi是賣玉米嗎？喔，聽錯了 是域名
+2015-10-31 07:39:07 < zeroplex-bot > `alicekey` 我還以為是雲林到高雄XD
+2015-10-31 07:53:07 < ghostwolf90 > 我真的以為是買玉米....
+2015-10-31 08:00:31 < chyuaner > 請問今天MOPCON有賣紀念T-shirt嗎？
+2015-10-31 08:01:50 < keith222 > 記得有 在三樓報到處的樣子
+2015-10-31 08:08:39 < unciax > 有喔  歡迎來三樓報到處選購
+2015-10-31 08:10:25 < zeroplex-bot > `pcchou` 3F BobChao Unconference!
+2015-10-31 08:12:45 < zeroplex-bot > `Aweimeow` 喔喔喔喔喔喔喔喔喔喔喔喔 投影機不晃了
+2015-10-31 08:15:44 < zeroplex-bot > `[R2]Mouther` 翻譯好有趣 ＸＤ
+2015-10-31 08:16:11 < keith222 > XD
+2015-10-31 08:19:15 < supernisor123 > 剛剛他說有放在slide share
+2015-10-31 08:19:18 < supernisor123 > 有人有ＬＩＮＫ嗎
+2015-10-31 08:19:49 < kewang > http://www.slideshare.net/samchiu0419/android-gradle-mopcon-54589102
+2015-10-31 08:19:53 < kewang > hackpad上面有
+2015-10-31 08:20:14 < supernisor123 > 好的感謝
+2015-10-31 08:25:20 < zeroplex-bot > `Aweimeow` R2的翻譯口速好快 Q_Q
+2015-10-31 08:27:20 < zeroplex-bot > `ggininder_` 口譯好厲害！
+2015-10-31 08:34:02 < jordanSu > 口譯應該本身也有資訊背景吧?!
+2015-10-31 08:34:13 < jordanSu > 感覺也是有專有名詞的
+2015-10-31 08:37:27 < chusiang > 口譯本身也是資深 RD 喔！
+2015-10-31 08:39:04 < rickchcc > 拜倒
+2015-10-31 08:40:01 < zeroplex-bot > `[R2]Mouther` 精通日語的RD，大家快來搶唷
+2015-10-31 08:42:53 < chihying > R2口譯語速好快(掩面
+2015-10-31 08:44:42 < Jackson45252 > 他的舌頭是高科技
+2015-10-31 08:45:34 < zeroplex-bot > `ggininder_` 翻譯年糕的rd
+2015-10-31 08:48:36 < wupojung > QQ  R1 說了一個笑話  我就跟不上了
+2015-10-31 08:48:50 < zeroplex-bot > `[R2]Mouther` 好冷清啊這裡
+2015-10-31 08:52:01 < Jackson45252 > 
+2015-10-31 08:52:08 < Jackson45252 > R3是高雄人 地主優勢?
+2015-10-31 08:54:07 < zeroplex-bot > `ggininder_` 神人出現了
+2015-10-31 08:54:29 < zeroplex-bot > `[R2]Mouther` 就給你們聊就好了啊
+2015-10-31 08:54:39 < zeroplex-bot > `Wemy` 50w一行字ˊˇˋ
+2015-10-31 08:59:46 < kewang > 他只想到他自己！！！
+2015-10-31 09:02:06 < kitah > Open source 只想到他自己
+2015-10-31 09:07:06 < zeroplex-bot > `divazone` 三樓那邊還有衣服可以買嗎？
+2015-10-31 09:07:45 < helen-yeh > 還有~!
+2015-10-31 09:09:22 < zeroplex-bot > `DennyHuang` R2 投影片網址 http://denny.one/MOPCON2015/#1
+2015-10-31 09:09:29 < wupojung > 去年的還有嘛？
+2015-10-31 09:10:59 < williesmithchen > [r1]出張嘴的也算工程師www
+2015-10-31 09:12:38 < andytwmvp > 退學宣言wwww
+2015-10-31 09:12:48 < zeroplex-bot > `Wemy` vim開發android wwww
+2015-10-31 09:14:52 < LuxunHuang > 推eclim.org
+
+2015-10-31 09:15:25 < mkidyt > 可是PM本人在場喔XD
+2015-10-31 09:16:50 < zeroplex-bot > `[R2]Mouther` 圖書館
+2015-10-31 09:18:06 < wupojung > 可以收錄成語錄了啦。。GJ
+2015-10-31 09:28:35 < Lorex > denny 為什麼只問 vim 啦QQ
+2015-10-31 09:28:51 < Lorex > emacs 使用者表示覺得被歧視 QQ
+2015-10-31 09:29:19 < divazone > 好猛啊XDDD
+2015-10-31 09:30:27 < zeroplex-bot > `[R2]Mouther` 我都用 url-loader ((被揍
+2015-10-31 09:35:02 < wupojung > 這屆的梗就是 通靈嗎～～ XD
+2015-10-31 09:37:40 < divazone > doggy
+2015-10-31 09:37:52 < Lorex > doge :)
+2015-10-31 09:38:18 < Lorex > NB 沒電了，我好想念人文館QQ
+2015-10-31 09:38:35 < divazone > 都只能綁充電區
+2015-10-31 09:38:55 < Lorex > 有充電區嗎？ ((眼神亮
+2015-10-31 09:39:33 < divazone > 有啊 你可以看會場地圖
+2015-10-31 09:40:56 < NightFeather > 充電區一開始還以為是啥神奇的討論區
+2015-10-31 09:41:20 < divazone > 只是很多人順便在那聊天吧www
+2015-10-31 09:42:04 < NightFeather > 直到看到桌上的線 ' -')
+2015-10-31 22:47:36 < eggttball > 今日我最早 ...
+2015-11-01 01:00:45 < WeichiWang > R1已經半滿囉, 各位加緊腳步!
+2015-11-01 01:01:18 < yllan > 工商服務一下：今天 16:15-17:00,   地點 : R2 的講座：「全天下男人都會犯的錯：密碼學」已經把大綱放到 hackpad 了： https://mopcon.hackpad.com/MOPCON-2015-Day-2-O2Wb7c7KtIf  已經了解內容的朋友不用浪費時間可以去聽別的講座，覺得有興趣的朋友，期待下午和您見面喔
+2015-11-01 01:11:32 < WeichiWang > 要準備開場囉! 大家趕快就定位 >"<
+2015-11-01 01:13:43 < wupojung > 速度好快～
+2015-11-01 01:15:28 < okischuang > R3 連播好 lag
+2015-11-01 01:15:36 < wupojung > 密碼學這個也威了～～
+2015-11-01 01:15:55 < wupojung > R3 悲劇ing
+2015-11-01 01:16:03 < zeroplex-bot > `XiaoJunHong` 會提供肉乾獎品（X
+2015-11-01 01:17:03 < divazone > R2聲音有點小><
+2015-11-01 01:17:19 < Jackson45252 > R1還有很多位置R
+2015-11-01 01:17:58 < msn6058 > R3 聽不太到聲音
+2015-11-01 01:18:51 < williesmithchen > 早安
+2015-11-01 01:18:58 < Jackson45252 > 東西放著人直接下來3F吧~
+2015-11-01 01:19:59 < chnbohwr > R2 好小聲～
+2015-11-01 01:20:11 < chnbohwr > 有了有了 變好了
+2015-11-01 01:20:14 < zeroplex-bot > `XiaoJunHong` R1的雜音有點明顯
+2015-11-01 01:20:18 < divazone > 變大聲摟
+2015-11-01 01:20:21 < msn6058 > 換隻mic 就變好了
+2015-11-01 01:20:31 < zeroplex-bot > `XiaoJunHong` 現在有小聲一點點
+2015-11-01 01:20:33 < divazone > 現在很OK了
+2015-11-01 01:20:36 < mkidyt > 收音問題
+2015-11-01 01:20:37 < zeroplex-bot > `Aweimeow` 這個直播好頓 Q__Q
+2015-11-01 01:21:17 < zeroplex-bot > `XiaoJunHong` bot好像沒在這邊轉訊息
+2015-11-01 01:21:26 < zeroplex-bot > `Aweimeow` bot 掛掉了嗎 XD
+2015-11-01 01:21:45 < divazone > test
+2015-11-01 01:21:57 < zeroplex-bot > `divazone` 看來是壞了 沒在轉
+2015-11-01 01:22:07 < zeroplex-bot > `divazone` 但是轉過去的還有
+2015-11-01 01:22:45 < zeroplex-bot > `XiaoJunHong` 居然看到有人在升級Mac ww
+2015-11-01 01:23:03 < zeroplex-bot > `Aweimeow` 這個是小俊欸！！！
+2015-11-01 01:23:07 < zeroplex-bot > `Aweimeow` 發現小俊！
+2015-11-01 01:23:24 < zeroplex-bot > `XiaoJunHong` 欸... QAQ 你是哪位（遮臉
+2015-11-01 01:23:42 < zeroplex-bot > `Aweimeow` 沒辦法小俊不讓我認親 QQ 到了現在還不知道你長怎樣
+2015-11-01 01:30:11 < hawkhsieh > ---
+2015-11-01 01:35:40 < zeroplex-bot > `DolphinWing`  test
+2015-11-01 01:42:31 < zeroplex-bot > `DolphinWing` 今天網路比較慢？
+2015-11-01 01:44:07 < zeroplex-bot > `XiaoJunHong` 感覺還好？
+2015-11-01 01:44:18 < zeroplex-bot > `XiaoJunHong` Aweimeow: 嘖嘖 XD
+2015-11-01 01:47:40 < t78973677 > gitlap, CI好專業
+2015-11-01 01:48:24 < zeroplex-bot > `XiaoJunHong` 「這麼快就跑出來了，真是輕鬆愉快啊」
+2015-11-01 01:51:05 < kewang > 每次一到四樓，都要問一次 r2, r3 在哪 Orz。為什麼這次沒有做門牌啊？
+2015-11-01 01:51:08 < wupojung > 莫非忘記通知大家 關閉3/4G導致  AP干擾？
+2015-11-01 01:51:23 < hawkhsieh > docker 就是綠色軟體包裝器，一鍵安裝
+2015-11-01 01:51:31 < wupojung > 其實門口有啊。。。R3 門口 左邊 就一張 紙 告訴你
+2015-11-01 01:53:20 < zeroplex-bot > `XiaoJunHong` 可能還有人還在賴床，比較少人自開 AP（？
+2015-11-01 01:53:48 < AugustusW > 那張紙指著下方是R2
+2015-11-01 01:53:59 < zeroplex-bot > `divazone` 感覺今天人好像比較少耶
+2015-11-01 01:57:24 < Jackson45252 > 昨天有些人是來看熱鬧的
+2015-11-01 01:57:48 < Jackson45252 > 有些是剛好今天是另外有行程
+2015-11-01 02:00:02 < wupojung > 其實我很好奇早上4F 攤位排隊 在排什麼呢  （誤
+2015-11-01 02:00:26 < divazone > 看熱鬧XDD
+2015-11-01 02:00:52 < wupojung > 快爆料啦～～ 
+2015-11-01 02:02:26 < zeroplex-bot > `DolphinWing` 所以是在排什麼
+2015-11-01 02:02:44 < t78973677 > 排早餐？
+2015-11-01 02:04:27 < zeroplex-bot > `XiaoJunHong` 可惡，有點好奇排什麼
+2015-11-01 02:05:17 < forged05 > r1的冷氣好冷 ><
+2015-11-01 02:05:41 < divazone > 那邊沒吃得啊
+2015-11-01 02:06:04 < zeroplex-bot > `DolphinWing` 有人說是在抽T-shirt
+2015-11-01 02:06:35 < prprprpony > gandi 送免費 T-shirt
+2015-11-01 02:10:46 < wupojung > T⋯⋯T    已錯過 ＝ ＝
+2015-11-01 02:12:22 < ucfan > 弱弱的說一下 冷氣可以開小一點嗎...每一廳都好冷
+2015-11-01 02:18:16 < Jackson45252 > 沒帶外套嗎XD 我昨天已學乖
+2015-11-01 02:19:28 < zeroplex-bot > `DolphinWing` 已學乖 +1
+2015-11-01 02:21:32 < zeroplex-bot > `yrc` 黑貓維茲?1
+2015-11-01 02:21:41 < zeroplex-bot > `cber` 原來是黑貓阿
+2015-11-01 02:21:51 < zeroplex-bot > `divazone` 也太像
+2015-11-01 02:21:54 < zeroplex-bot > `WaitingChen` 黑貓 頭鷹
+2015-11-01 02:21:58 < WeichiWang > gandi如果改送免費外套 不知道會不會熱銷
+2015-11-01 02:22:01 < zeroplex-bot > `yrc` 黑貓頭鷹
+2015-11-01 02:22:32 < zeroplex-bot > `divazone` 不過現在很多手遊長得很像也不奇怪（？
+2015-11-01 02:22:46 < berget > 走錯聽...
+2015-11-01 02:22:50 < zeroplex-bot > `ggininder_` 可能日本黑貓已經先把雷都踩過了
+2015-11-01 02:23:00 < berget > 不是來看PV跟影片的...
+2015-11-01 02:23:06 < chusiang > 已加穿了一件發熱衣。(自我感覺良好)
+2015-11-01 02:23:17 < zeroplex-bot > `yrc` 嗯嗯不Yee外
+2015-11-01 02:23:26 < zeroplex-bot > `DolphinWing` 就跟跑步游泳一樣，不就是你做什麼，我也做什麼嗎
+2015-11-01 02:23:37 < zeroplex-bot > `WaitingChen` ［問卦］有沒有最近手機遊戲都很像的八卦？
+2015-11-01 02:23:55 < zeroplex-bot > `divazone`  可是這樣說真的能夠賺到市場嗎？只有起頭的廠商會比較好賺吧？
+2015-11-01 02:24:13 < locy > 有這麼冷嗎？
+2015-11-01 02:24:55 < zeroplex-bot > `ggininder_` 主要是太像了! 連介面都很像....
+2015-11-01 02:24:59 < divazone > 我覺得還好 沒那麼冷
+2015-11-01 02:25:06 < zeroplex-bot > `divazone` 是根本都一樣吧
+2015-11-01 02:25:22 < zeroplex-bot > `divazone` 頂多ICON跟抽獎畫面重作還有卡面不一樣
+2015-11-01 02:25:41 < zeroplex-bot > `ggininder_` 求大大等一下拿黑貓去問他們XD
+2015-11-01 02:26:05 < zeroplex-bot > `divazone` 我覺得等等可能有人會問吧XD
+2015-11-01 02:26:17 < berget > 等等可以舉手發問XD
+2015-11-01 02:26:23 < zeroplex-bot > `WaitingChen` 跪求勇者XD
+2015-11-01 02:26:37 < locy > 昨天 3F 外面廠商充電區是比較冷！
+2015-11-01 02:27:02 < zeroplex-bot > `Aweimeow` 求勇者發問 好想看看會怎麼回答 XDDD
+2015-11-01 02:27:48 < zeroplex-bot > `DolphinWing` 發問的會送你卡片(疑)
+2015-11-01 02:28:13 < zeroplex-bot > `ggininder_` 今天R2主題: 論著作權與工程師之關聯
+2015-11-01 02:28:41 < zeroplex-bot > `WaitingChen` 是5星傳說卡喔<3
+2015-11-01 02:29:03 < zeroplex-bot > `divazone` 刻場景是很OK 但是創意...XD
+2015-11-01 02:29:09 < zeroplex-bot > `yrc` Live Demo猛猛der
+2015-11-01 02:29:23 < zeroplex-bot > `Aweimeow` 風車會轉欸！！！
+2015-11-01 02:30:04 < zeroplex-bot > `DolphinWing` 我不在這邊示範喔，手默默地把風車拉了個位置
+2015-11-01 02:32:07 < zeroplex-bot > `Aweimeow` 話說 mopconbot 是不是還是沒有轉送 Q__Q
+2015-11-01 02:32:14 < zeroplex-bot > `Aweimeow` 這邊好冷清好荒涼
+2015-11-01 02:32:26 < zeroplex-bot > `divazone` gitter的還是轉不過來
+2015-11-01 02:33:24 < berget > 請問...R3好聽嗎...
+2015-11-01 02:35:19 < johnroyer > 這不是我認識的 MOPCON 娘
+2015-11-01 02:35:22 < johnroyer > http://i.imgur.com/lqu3vFM.jpg
+2015-11-01 02:35:37 < divazone > XDDDDDDD
+2015-11-01 02:36:02 < locy > 改版？
+2015-11-01 02:36:05 < zeroplex-bot > `mouther` Unconference 講者來頭超大
+2015-11-01 02:36:10 < rickchcc > 這太崩壞了
+2015-11-01 02:36:11 < zeroplex-bot > `mouther` 不聽會後悔
+2015-11-01 02:36:26 < t78973677 > 為什麼要這樣，明明這麼可愛
+2015-11-01 02:36:41 < zeroplex-bot > `divazone` AWS？
+2015-11-01 02:36:52 < zeroplex-bot > `mouther` IoT
+2015-11-01 02:37:40 < wupojung > WHO？
+2015-11-01 02:38:00 < zeroplex-bot > `divazone` WHO？
+2015-11-01 02:39:29 < zeroplex-bot > `Aweimeow` 聽說昨天是 bob 大大
+2015-11-01 02:39:31 < zeroplex-bot > `Aweimeow` 今天是誰啊 ？
+2015-11-01 02:44:18 < t78973677 > James
+2015-11-01 02:44:21 < berget > R2 開潮諷了XDDD
+2015-11-01 02:44:39 < divazone > WWWW
+2015-11-01 02:46:05 < ching56 > 請問unconference是什麼？
+2015-11-01 02:46:09 < AugustusW > R2說了什麼？
+2015-11-01 02:47:23 < AManTw > R2剛剛的意思是??XDDD
+2015-11-01 02:49:13 < AugustusW > 為了看一眼 買一個apple watch也是蠻怪的啊啊
+2015-11-01 02:50:15 < j796160836 > [R1]二天搞定
+2015-11-01 02:53:57 < t78973677 > [![87694.jpg](https://files.gitter.im/MOPCON/mopcon-chat/ASjh/thumb/87694.jpg)](https://files.gitter.im/MOPCON/mopcon-chat/ASjh/87694.jpg)
+2015-11-01 02:54:20 < t78973677 > 閃電秀  快滿了
+2015-11-01 02:58:11 < berget > 剛剛R2 嘲諷microsoft azure，不是他們 難用，是我們不夠好，microsoft azure 會發生很神奇的事情...，一定是我們不夠好w 
+2015-11-01 02:58:23 < berget > R2 開始發問拉，誰要問黑貓w
+2015-11-01 02:58:33 < AManTw > wwwww
+2015-11-01 02:58:50 < divazone > 你問啊（
+2015-11-01 02:59:08 < TommyChap > 座等
+2015-11-01 02:59:13 < berget > 我沒玩過黑貓w
+2015-11-01 02:59:55 < t78973677 > 鼓勵員，要有什麼條件？
+2015-11-01 03:00:03 < divazone > 可惡 沒人要問嗎WWW
+2015-11-01 03:00:31 < taxeswang > 鼓勵員要穿蘿莉裝嗎？
+2015-11-01 03:00:40 < divazone > 看來勇者要徵求失敗了（？
+2015-11-01 03:01:00 < t78973677 > 我在Ｒ1沒辦法問
+2015-11-01 03:01:06 < AManTw > 可以請講者自己說嗎xd
+2015-11-01 03:01:14 < zeroplex-bot > `Aweimeow` GG R2 共筆坦不起來
+2015-11-01 03:01:38 < AManTw > a大 是r2 mvp
+2015-11-01 03:02:59 < divazone > 現在這邊的發言過不去IRC
+2015-11-01 03:03:28 < divazone > 真的沒人問 看來玩黑貓的人太少惹
+2015-11-01 03:03:29 < wildjcrt > 請問 Unconference 是講什麼？
+2015-11-01 03:03:49 < AManTw > 對耶 過不去Q
+2015-11-01 03:06:41 < zeroplex-bot > `Aweimeow` 鬆一口氣 QQ
+2015-11-01 03:06:43 < zeroplex-bot > `Aweimeow` 有夠累的
+2015-11-01 03:07:08 < AManTw > 感謝大大 
+2015-11-01 03:12:50 < berget > R3 爆滿...
+2015-11-01 03:13:22 < wupojung > R3 爆炸了～～
+2015-11-01 03:13:34 < AManTw > R3不是換講者?
+2015-11-01 03:13:49 < wupojung > yahoo
+2015-11-01 03:14:06 < berget > cj04t/6
+2015-11-01 03:14:12 < zeroplex-bot > `pastleo` R2 右邊有點冷QQ
+2015-11-01 03:14:13 < berget > 換成 如何建立行動生態圈
+2015-11-01 03:14:34 < zeroplex-bot > `XiaoJunHong_m` 超冷的...
+2015-11-01 03:14:45 < berget > 剛剛主持人的mic 有點小聲，希望等等不會太小...
+2015-11-01 03:15:03 < wupojung > R2 昨天  右邊就很冷了。。。冷到投影機還會發抖
+2015-11-01 03:15:07 < williesmithchen > r3麥克風聲音很糟
+2015-11-01 03:15:20 < williesmithchen > 後面聽不清楚
+2015-11-01 03:15:23 < berget > god ...
+2015-11-01 03:15:52 < berget > R3 開始了
+2015-11-01 03:15:57 < wupojung > 好長的title
+2015-11-01 03:16:37 < berget > 聲音還OK...!!(還好
+2015-11-01 03:19:07 < zeroplex-bot > `Aweimeow` R2 瞬間多出好多人啊（遠望
+2015-11-01 03:20:44 < jordanSu > R2右邊投影機持續發抖中...
+2015-11-01 03:22:36 < zeroplex-bot > `y5n` Lxde 被排擠了qq
+2015-11-01 03:25:42 < zeroplex-bot > `Viktor2` LXQt(?
+2015-11-01 03:25:46 < zeroplex-bot > `dolphinwing74` R2的投影機也怕冷
+2015-11-01 03:27:54 < prprprpony > lxqt 表示：
+2015-11-01 03:28:02 < Serrok > [QNAP] 說個秘訣，看今天早上的報紙，今天下午 14:00 抽獎。還沒填(ㄇㄞˋ)問(ㄍㄜˋ)卷(ㄗ)換小禮物跟拿抽獎機會的趕快來喔喔喔～
+2015-11-01 03:29:57 < mimiguo > 能救救 R2 的投影機嗎 please~ (覺得暈眩)
+2015-11-01 03:30:14 < Azraels > R2居然不能進去了
+2015-11-01 03:33:43 < johnroyer > @divazone gitter-bot 同步問題已修正，感謝回報 <(_ _)>
+2015-11-01 03:34:30 < zeroplex-bot > `zeroplex` Aweimeow: 可能是連線有中斷，已重新啟動 gitter-bot，謝謝
+2015-11-01 03:34:53 < divazone > ＠johnroyer <(_ _)>
+2015-11-01 03:35:52 < zeroplex-bot > `yrc` 坐好，坐滿！才不會痠中痛
+2015-11-01 03:53:27 < kewang > 台語問日文講者 XDDDDD
+2015-11-01 03:57:14 < kewang > [R1] 講者好辛苦，一下要聽台語，一下要聽中文，一下要聽英文，一下要聽日文 XDDD
+2015-11-01 03:58:58 < divazone > XDDDDD
+2015-11-01 03:59:21 < chusiang > MOPCON 2015 的 Lightning Talk 名單出爐了！
+[![mopcon2015_lightning_talk .jpg](https://files.gitter.im/MOPCON/mopcon-chat/gPvl/thumb/mopcon2015_lightning_talk-.jpg)](https://files.gitter.im/MOPCON/mopcon-chat/gPvl/mopcon2015_lightning_talk-.jpg)
+2015-11-01 04:00:34 < divazone > 賀
+2015-11-01 04:01:39 < divazone > 等等可能會有多的便當嗎？
+2015-11-01 04:03:41 < chusiang > 有需要可以事後來服務台問喔，應該會多。
+2015-11-01 04:06:20 < wupojung > miki XD
+2015-11-01 04:27:36 < almightybobo > 學生也可以來領便當囉～
+2015-11-01 04:29:18 < zeroplex-bot > `y5n` xd
+2015-11-01 04:33:47 < robinli > 冷氣太冷了~~ 能否調整一下
+2015-11-01 04:55:40 < wupojung > 好冷啊～～
+2015-11-01 04:59:36 < AManTw > 剛剛是MGS主題曲!!
+2015-11-01 05:00:15 < zeroplex-bot > `Aweimeow` mopcon-bot 復活了耶！
+2015-11-01 05:08:02 < divazone > BOSS!!
+2015-11-01 05:12:46 < zeroplex-bot > `BeataLin_`  想不到會在高雄重溫921
+2015-11-01 05:15:00 < AManTw > 勤益科大嗎?@@
+2015-11-01 05:16:45 < berget > R3轉播很悲劇………
+2015-11-01 05:28:09 < Serrok > [QNAP] 聽說等等 13:50 會抽5台小AP，還沒填(ㄇㄞˋ)問(ㄍㄜˋ)卷(ㄗ)換小禮物跟拿抽獎機會來喔～
+2015-11-01 05:30:56 < wupojung > 宿舍倒塌的是 勤益～ 沒有錯。。。 
+2015-11-01 05:32:58 < zeroplex-bot > `XiaoJunHong` 「四級地震」好焦慮喔...
+2015-11-01 05:33:43 < wupojung > 我的應變措施：  怎麼關音樂。。怎麼關。。 怎麼關。。。
+2015-11-01 05:35:55 < wupojung > 勤益工專電機科 ～
+2015-11-01 05:36:20 < wupojung > 找到 講者的 學歷了～～
+2015-11-01 05:36:34 < AManTw > 原來乳此
+2015-11-01 05:36:44 < AManTw > 原來如此...
+2015-11-01 05:37:22 < zeroplex-bot > `XiaoJunHong` https://drive.google.com/file/d/0B5WaQa0OvgVNLTZOTG1neDllRTQ/view
+2015-11-01 05:38:31 < zeroplex-bot > `dolphinwing74` 求中文版
+2015-11-01 05:39:08 < zeroplex-bot > `XiaoJunHong` 中文 http://www.metro.tokyo.jp/CHINESE/GUIDE/BOSAI/index.htm
+2015-11-01 05:39:50 < wupojung > 原來是學長。。。（敬禮～
+2015-11-01 05:40:23 < zeroplex-bot > `dolphinwing74` 謝謝大大分享
+2015-11-01 05:49:41 < kewang > 總算問對了 XDDDD
+2015-11-01 05:49:53 < AManTw > 恭喜那位先生了wwww
+2015-11-01 05:50:14 < kitah > XD
+2015-11-01 05:50:47 < wupojung > 太準了。。。飛彈就會打到這裡了。。。 XDD
+2015-11-01 05:51:50 < AManTw > 我剛剛已經把這個APP分享推薦給我爸媽了QQQQ
+2015-11-01 05:52:40 < wupojung > 記得要吧 演習代碼關了。。XD
+2015-11-01 05:53:23 < AManTw > 預設是空的吧XDD 
+2015-11-01 05:57:22 < YongYuH > 想要問一下
+從官網議程
+(http://mopcon.org/2015/schedule.php)
+在11/1(日)1515~1600一廳的講者的FB
+連過去是織田紀香的FB
+請問這個是連結有錯誤? 
+還是 真的就是那位織田紀香但是我不知道阿XD
+2015-11-01 05:57:27 < wupojung > 真的好冷。。。  
+2015-11-01 05:58:39 < kewang > @YongYuH 兩個是不同人啦，不過可以複製到一樣也不簡單 XD
+2015-11-01 06:01:23 < LIYINGZHEN > ....也差太多＝＝
+2015-11-01 06:01:37 < wupojung > hackpad 又GG？
+2015-11-01 06:02:36 < wupojung > 好了。。。 
+2015-11-01 06:04:28 < zeroplex-bot > `divazone` test
+2015-11-01 06:06:04 < zeroplex-bot > `yrc` 台中標在苗栗，高雄標在台南
+2015-11-01 06:06:28 < zeroplex-bot > `divazone` 哪招WWW
+2015-11-01 06:07:28 < zeroplex-bot > `Aweimeow` IRC>
+2015-11-01 06:11:43 < zeroplex-bot > `XiaoJunHong` 「這兩天真的有夠冷的」
+2015-11-01 06:12:10 < zeroplex-bot > `williamg` 冷冷的.....
+2015-11-01 06:12:19 < zeroplex-bot > `divazone` 很冷啊（場內
+2015-11-01 06:12:48 < jordanSu > 冰棒養成計劃?!
+2015-11-01 06:14:28 < zeroplex-bot > `[R2]Mouther` 超冷
+2015-11-01 06:15:32 < zeroplex-bot > `XiaoJunHong` R1 「Live Demo成功了」（鼓掌
+2015-11-01 06:15:33 < zeroplex-bot > `divazone` 23度XD
+2015-11-01 06:15:59 < wupojung > 總算停了。。冷氣。。。
+2015-11-01 06:19:50 < zeroplex-bot > `divazone` 這車好聽話
+2015-11-01 06:22:19 < Serrok > [QNAP] 本回抽獎第一批10位幸運的得獎者已經抽出來囉！
+今日現場開放領獎，請持我們寄發的通知信 或 以手機開啟你的郵箱將可以證明這是你的email的畫面給我們工作人員看後，就可以領獎囉！
+15:00 我們還會再抽出5位，如果還沒賣個......填問卷和拿精美小禮物的朋友，請趁吃點心時間趕快來唷～ 
+
+黃X勳   a7*****5@gmail.com　　｜　　游X婷   wen******21@gmail.com
+陳X欽   pac******23@gmail.com　　｜　　陳X浩   bil******108@yahoo.com.tw
+李X誼   zx*****us@gmail.com　　｜　　詹X翔   m7*****1@gmail.com
+金X榮   kin******ng@gmail.com　　｜　　翁X鈞   ji******l@gmail.com
+葉X志   z*****08@gmail.com　　｜　　蔡X芳   ev******ai417@gmail.com
+2015-11-01 06:24:12 < zeroplex-bot > `XiaoJunHong` R1 「Live Demo總是要有plan B麻～ 讓我們打開影片」
+2015-11-01 06:24:20 < zeroplex-bot > `divazone` 看起來好好玩啊
+2015-11-01 06:25:39 < AManTw > 好有趣喔!回去要來買器材了> <
+2015-11-01 06:27:56 < gitjolin > R3隱約 有老歌是怎樣
+2015-11-01 06:29:19 < gitjolin > 樓上有人卡拉ok.
+2015-11-01 06:31:13 < kitah > 4f感覺超歡樂
+2015-11-01 06:33:52 < divazone > 卡啦OK？
+2015-11-01 06:34:37 < RJpolar > 從早上就一直出現的老歌歌聲…
+2015-11-01 06:34:43 < zeroplex-bot > `XiaoJunHong` https://twitter.com/MartyShu/status/660706254222786560
+2015-11-01 06:37:25 < wupojung > 樓上好歡樂～～
+2015-11-01 06:37:30 < zeroplex-bot > `WaitingChen` R1建議多來幾個選項然後排列組合一下XD
+2015-11-01 06:40:32 < AugustusW > 板子哪裡買呀...
+2015-11-01 06:40:52 < kewang > https://webduino.io/
+2015-11-01 06:41:18 < zeroplex-bot > `XiaoJunHong` https://webduino.io/buy.html
+2015-11-01 06:41:59 < zeroplex-bot > `[R2]Mouther` 開放點心囉
+2015-11-01 06:43:15 < AugustusW > 找到囉 感謝
+2015-11-01 07:05:34 < zeroplex-bot > `WaitingChen` Webduino 的網站上面我沒有看到剛剛demo的uno版本耶
+2015-11-01 07:06:00 < zeroplex-bot > `WaitingChen` 是我眼殘嗎@@？
+2015-11-01 07:08:24 < kitah > Uno 長明街買？
+2015-11-01 07:08:47 < Serrok > [QNAP] 本回抽獎第二批5名幸運的得獎者已經抽出來囉！
+今日16:00前現場開放領獎，請持我們寄發的通知信 或 以手機開啟你的郵箱將可以證明這是你的email的畫面給我們工作人員看後，就可以領獎囉！
+如果人不在現場或現場沒有領獎的話，請在收到通知信後依通知信內容聯絡我們。謝謝大家！
+
+王X喜   di*****ng@kkbox.com
+許X森   b******01@gmail.com
+陳X辰   ss90******nap@gmail.com
+張X志   da******ite@gmail.com
+王X祥   v20*****12@gmail.com
+2015-11-01 07:10:17 < zeroplex-bot > `WaitingChen` 我不是要買UNO 是要買他剛剛demo插在UNO上的擴充模組
+2015-11-01 07:11:07 < zeroplex-bot > `[R2]Mouther` R2 好多人＠＠
+2015-11-01 07:11:17 < t78973677 > 真的
+2015-11-01 07:11:31 < t78973677 > 只剩站票
+2015-11-01 07:11:47 < zeroplex-bot > `[R2]Mouther` 都來朝聖 Muki 嗎 ＸＤＤ
+2015-11-01 07:11:49 < jacky810124 > Lighting talk有議程連結嗎？
+2015-11-01 07:14:29 < kitah > 朝聖+1
+2015-11-01 07:15:23 < wupojung > 上面有圖片連結～～
+2015-11-01 07:16:31 < zeroplex-bot > `[R2]Mouther` 粉專分享 https://www.facebook.com/mukispace
+2015-11-01 07:17:05 < jordanSu > R2爆滿啦
+2015-11-01 07:17:40 < zeroplex-bot > `AWEIMEOW` R2 超多人的！！
+2015-11-01 07:19:44 < wupojung > 其實我覺得R2 右邊的螢幕如果不發抖  反而比較清楚耶
+2015-11-01 07:21:24 < wupojung > 大會是不是要考慮 以後投影機 投影 往上一點。。。 
+因為座位是平面的。。。
+簡報內容的下面都會被前排的 “英姿”  擋到
+2015-11-01 07:23:41 < williesmithchen > R1開心的猴子 開心的使用者
+2015-11-01 07:28:04 < zeroplex-bot > `dolphinwing74` R1有點冷清
+2015-11-01 07:28:29 < zeroplex-bot > `[R2]Mouther` irc 也很冷清
+2015-11-01 07:30:07 < zeroplex-bot > `nuliy` 人都跑去r2了嗎，ㄍ
+2015-11-01 07:30:28 < divazone > R3沒什麼人
+2015-11-01 07:32:02 < chusiang > R2 爆滿了，muki 加油！
+2015-11-01 07:33:40 < wupojung > 其實R2 還有一些空位耶。。。。 
+2015-11-01 07:34:36 < zeroplex-bot > `ggininder` 不過大家都直接站後面
+2015-11-01 07:38:01 < zeroplex-bot > `AWEIMEOW` 請大家坐好坐滿 ( X )
+2015-11-01 07:43:08 < bill85101 > R2的右邊頭影機還是在抖動....
+2015-11-01 07:43:36 < zeroplex-bot > `[R2]Mouther` 用 rem ？
+2015-11-01 07:44:39 < zeroplex-bot > `[R2]Mouther` view height & view width
+2015-11-01 07:44:58 < zeroplex-bot > `AWEIMEOW` R2 的右側 projector 昨天就開始抖了
+2015-11-01 07:50:48 < wupojung > 投影機表示： 我冷了兩天
+2015-11-01 07:52:46 < zeroplex-bot > `[R2]Mouther` 今天貌似比較不抖
+2015-11-01 07:54:42 < wupojung > 主持人累了～～
+2015-11-01 07:56:14 < zeroplex-bot > `[R2]Mouther` RESS?
+2015-11-01 07:57:14 < wupojung > Responsive Design + Server Side Components
+2015-11-01 07:57:46 < zeroplex-bot > `Viktor2` React 傳教大會
+2015-11-01 07:57:55 < zeroplex-bot > `[R2]Mouther` wupojung: thx
+2015-11-01 07:58:15 < zeroplex-bot > `[R2]Mouther` react 邪教無誤
+2015-11-01 08:09:33 < zeroplex-bot > `AWEIMEOW` 原來講者大大先把共筆打完了！
+2015-11-01 08:09:50 < zeroplex-bot > `AWEIMEOW` 一瞬間沒有事情能做，突然有種空虛的感覺
+2015-11-01 08:10:42 < zeroplex-bot > `yulin` 你可以 debug
+2015-11-01 08:18:41 < wupojung > 完全。。。 恍神
+2015-11-01 08:18:54 < wupojung > 跟不上筆記內容
+2015-11-01 08:21:01 < zeroplex-bot > `[R2]Mouther` 講者有點緊張 ＸＤ
+2015-11-01 08:23:40 < NFUYFSun > R1 左右側投影片上方部分被截掉了 0.0~
+2015-11-01 08:34:18 < zeroplex-bot > `[R2]Mouther` 腦補一下 https://www.ptt.cc/bbs/Gossiping/M.1446129889.A.817.html
+2015-11-01 08:48:55 < zeroplex-bot > `dolphinwing74` 做好做滿XDDD
+2015-11-01 08:49:26 < hippoandy > 任期跑完XDD
+2015-11-01 08:49:31 < zeroplex-bot > `[R2]Mouther` wwwwwwwwwwww
+2015-11-01 09:00:14 < wupojung > 作者幫補 QQ
+2015-11-01 09:02:31 < wupojung > 為甚麼是我的名字啦。。。 T⋯⋯T
+2015-11-01 09:22:12 < yllan > 可惡，太晚來，沒報到 lightning talk QQ
+2015-11-01 09:28:16 < zeroplex-bot > `chusiang` 來賣衣服的 XDD
+2015-11-01 09:30:22 < wupojung > 我覺得 JSDC的比較刺激。。。 5分鐘 含設備 XD
+2015-11-01 09:30:30 < wupojung > GG直接拔線
+2015-11-01 09:31:06 < zeroplex-bot > `chusiang` wupojung: 歡迎明年來當拔線的人。
+2015-11-01 09:32:51 < Mikimoto > @yllan 太可惜了
+2015-11-01 09:33:47 < zeroplex-bot > `mouther` 沒吸引力啊
+2015-11-01 09:34:00 < zeroplex-bot > `AWEIMEOW` mopcon 的 LT 時間 irc 好少人喔
+2015-11-01 09:34:28 < zeroplex-bot > `mouther` @AMEIMEOW 一直都很少 Orz
+2015-11-01 09:35:06 < zeroplex-bot > `pastleo` gradle?
+2015-11-01 09:35:23 < zeroplex-bot > `AWEIMEOW` Q__Q
+2015-11-01 09:35:32 < zeroplex-bot > `AWEIMEOW` 明明會場這麼多人
+2015-11-01 09:35:57 < yllan > live demo! LT 大忌 XD
+2015-11-01 09:36:07 < Mikimoto > XDDD
+2015-11-01 09:36:20 < zeroplex-bot > `mouther` 會場也好冷靜 xDDD
+2015-11-01 09:36:28 < zeroplex-bot > `chusiang` 很多人開 gitter 沒 github account 啊。
+2015-11-01 09:36:57 < Mikimoto > 今年的 LT 好喜歡 live demo :p 
+2015-11-01 09:37:16 < zeroplex-bot > `Viktor2` 想看 QML 大戰 React
+2015-11-01 09:37:22 < yllan > 居然還有一些時間！厲害！
+2015-11-01 09:37:32 < zeroplex-bot > `chusiang` 2 min
+2015-11-01 09:37:43 < yllan > 我還以為 gradle 跑下去就要很久 XD
+2015-11-01 09:37:59 < Mikimoto > XD
+2015-11-01 09:38:13 < wupojung > https://github.com/Jintin/andle
+2015-11-01 09:38:17 < zeroplex-bot > `AWEIMEOW` J霧霾的命名原因是甚麼 XDDD
+2015-11-01 09:38:37 < zeroplex-bot > `mouther` J個嘛....
+2015-11-01 09:38:42 < zeroplex-bot > `chusiang` 怕不小心按到，要一直按著 … (好酸
+2015-11-01 09:38:52 < yllan > 這語速比較有 LT 的感覺啊
+2015-11-01 09:38:58 < wupojung > @chusiang   OKOK
+2015-11-01 09:38:59 < zeroplex-bot > `chusiang` 怕不小心按到，要一直按著 … (好酸 <=== 服務鈴
+2015-11-01 09:39:11 < wupojung > 先應徵明年志工這樣嗎
+2015-11-01 09:39:17 < zeroplex-bot > `AWEIMEOW` 這個語速才正常啊！！！！
+2015-11-01 09:39:33 < zeroplex-bot > `mouther` 歐 no math
+2015-11-01 09:39:40 < Mikimoto > agree ^^
+2015-11-01 09:40:01 < zeroplex-bot > `chusiang` wupojung: 不這個時候找要什麼時候找？ XDD
+2015-11-01 09:40:07 < zeroplex-bot > `AWEIMEOW` 不常待 TECH_JOB 版
+2015-11-01 09:40:10 < zeroplex-bot > `AWEIMEOW` 求耿的來源 QQ
+2015-11-01 09:40:14 < zeroplex-bot > `mouther` 包子 xD
+2015-11-01 09:40:15 < zeroplex-bot > `ggininder` 請問是哪家公司？
+2015-11-01 09:40:18 < e19940604 > 有人能解釋嗎ＸＤ
+2015-11-01 09:41:03 < zeroplex-bot > `AWEIMEOW` 原來是奇美啊！
+2015-11-01 09:42:02 < zeroplex-bot > `chusiang` PyCooooooooooooooooooon ~~~~~~
+2015-11-01 09:42:35 < wupojung > @chusiang    沒有注意到甚麼時候應徵
+2015-11-01 09:43:01 < zeroplex-bot > `mouther` Mosky 表示
+2015-11-01 09:43:19 < Mikimoto > 原來還沒到重點 :p 
+2015-11-01 09:43:29 < yllan > 咳，一直強調正妹 COC 會不會有問題
+2015-11-01 09:43:45 < zeroplex-bot > `AWEIMEOW` 偷賣 jserv 嗎 XD
+2015-11-01 09:44:16 < zeroplex-bot > `mouther` 出現了 某封麥大神
+2015-11-01 09:45:03 < zeroplex-bot > `chusiang` mouther 封麥神?
+2015-11-01 09:46:44 < zeroplex-bot > `chusiang` MOPCON 就是有正妹滿不用跑到台北去 --jserv
+2015-11-01 09:46:45 < yllan > 想問一下剛剛 PyCon 的 LT 講者有在線上嗎？有些問題想請教
+2015-11-01 09:46:51 < zeroplex-bot > `chusiang` MOPCON 就是有正妹，不用跑到台北去。 --jserv
+2015-11-01 09:47:31 < wupojung > jserv 語錄。。。 收錄！（蓋
+2015-11-01 09:48:55 < zeroplex-bot > `chusiang` 今年沒吃到下午茶啊 ~~~~
+2015-11-01 09:49:06 < zeroplex-bot > `AWEIMEOW` 求背景音樂
+2015-11-01 09:49:58 < wupojung > 就是今天哪個 大有來頭嗎？
+2015-11-01 09:50:27 < zeroplex-bot > `chusiang` wupojung: Yes
+2015-11-01 09:50:59 < wupojung > 錯過了。。。 XD 
+2015-11-01 09:51:00 < zeroplex-bot > `chusiang` zeroplex: 您紅了！ XDXD
+2015-11-01 09:51:53 < zeroplex-bot > `DanLu` 大家掰掰
+2015-11-01 09:52:59 < zeroplex-bot > `mouther` 8888888888888888080
+2015-11-01 14:17:22 < johnroyer > 我好像被紀錄組出賣了 XD
+2015-11-02 10:45:40 < chusiang > 今年的 hackpad 好精彩，晚些蒐集完簡報再來補進度了。
+2015-11-03 02:51:08 < zeroplex-bot > `zeroplex` chusiang: 沒跟到，請問有 hackpad 的網址嗎？ QQ
+2015-11-03 03:31:32 < zeroplex-bot > `mikechouto` http://hackfoldr.org/MOPCON-2015/
+2015-11-03 03:31:42 < zeroplex-bot > `mikechouto` hackfoldr 的網址
+2015-11-05 01:38:21 < zeroplex-bot > `tata` 嗨早安
+2015-11-05 01:45:00 < zeroplex-bot > `tata` 請問有人知道是否有討論javascript以及php程式開發的論壇嗎?
