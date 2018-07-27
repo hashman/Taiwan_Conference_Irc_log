@@ -1,0 +1,693 @@
+09:51 -!- hashman [~hashman@109.181.236.35.bc.googleusercontent.com] has joined #HITCON
+09:51 -!- Topic for #HITCON: HITCON CMT 2018 | https://hitcon.org/2018/CMT/ | http://inter.hitcon.org | 共筆 http://l.hitcon.org/2018-cmt-note
+09:51 -!- Topic set by allenown [~allenown@devstd.in] [Fri Jul 27 09:39:24 2018]
+09:51 [Users #hitcon]
+09:51 [@allenown ] [ ch0upi_bsd      ] [ Guest43875] [ Kk           ] [ owen_      ] [ Tigerisme] 
+09:51 [@orange_  ] [ chichi          ] [ Guest57927] [ knowlet      ] [ pellaeon   ] [ timcheng ] 
+09:51 [ adams_   ] [ clode___________] [ hashman   ] [ Ladon        ] [ PhoenixWolf] [ Totoro_  ] 
+09:51 [ AIDO_    ] [ cswang          ] [ hiKaga    ] [ lantw44      ] [ plonk      ] [ VIKI     ] 
+09:51 [ Allen    ] [ cwhwillie       ] [ inndy     ] [ likeway      ] [ Py_        ] [ Voda     ] 
+09:51 [ Allen_   ] [ d0gm4n          ] [ jackzie   ] [ logbot___    ] [ R1soGG     ] [ Vt_      ] 
+09:51 [ allenown_] [ danlu           ] [ jal       ] [ m0rrisc_     ] [ Rabbit     ] [ WifiWorks] 
+09:51 [ Andox    ] [ dannyAAM        ] [ Jiero     ] [ meow0verflow_] [ Rubisco    ] [ ws23_    ] 
+09:51 [ anfa     ] [ Drtok           ] [ joehorn   ] [ MLChen       ] [ S3p_lin    ] [ XDDDD    ] 
+09:51 [ Bizarre  ] [ exc3pt1on       ] [ JYNY      ] [ mTwTm        ] [ Sean_HITCON] [ XXQQ     ] 
+09:51 [ BlueT    ] [ Goddamn         ] [ kaibro    ] [ mxlius_      ] [ SleepZ     ] [ yuawn    ] 
+09:51 [ ccn      ] [ gswest          ] [ kcwu      ] [ NewCliCker   ] [ spq        ] [ zekt     ] 
+09:51 [ ccn_____ ] [ Guest17765      ] [ kid_naive ] [ Ooo          ] [ stanney    ] 
+09:51 -!- Irssi: #hitcon: Total of 77 nicks [2 ops, 0 halfops, 0 voices, 75 normal]
+09:51 -!- Channel #HITCON created Tue Jun  5 17:39:14 2012
+09:51 -!- Irssi: Join to #hitcon was synced in 2 secs
+09:51 < Voda> 是的話聽得到
+09:51 -!- zhen______ [01c83b47@gateway/web/freenode/ip.1.200.59.71] has joined #HITCON
+09:51 < Tigerisme> 感謝！ >///<
+09:51 -!- Py_ [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Ping timeout: 252 seconds]
+09:51 -!- K1MMYTH [0e00ed07@gateway/web/freenode/ip.14.0.237.7] has joined #HITCON
+09:52 -!- stanney [df8c47cc@gateway/web/freenode/ip.223.140.71.204] has quit [Ping timeout: 252 seconds]
+09:52 -!- Tom [df8c5a3b@gateway/web/freenode/ip.223.140.90.59] has joined #HITCON
+09:52 -!- Tom is now known as Guest51931
+09:52 -!- mmmmm [~androirc@101.14.147.184] has joined #HITCON
+09:53 -!- Ladon [2a48e2fa@gateway/web/freenode/ip.42.72.226.250] has quit [Ping timeout: 252 seconds]
+09:53 -!- John_ [1bf745de@gateway/web/freenode/ip.27.247.69.222] has joined #HITCON
+09:53 < hiKaga> test123
+09:53 -!- KonohaDerek [b4cc0a34@gateway/web/freenode/ip.180.204.10.52] has joined #HITCON
+09:53 -!- Naomi_ [3b782a52@gateway/web/freenode/ip.59.120.42.82] has joined #HITCON
+09:53 -!- John_ is now known as Guest62837
+09:53 -!- Rubisco [df89bb69@gateway/web/freenode/ip.223.137.187.105] has quit [Ping timeout: 252 seconds]
+09:53 -!- DannyLan [~Lan@viki.magicworks.net] has joined #HITCON
+09:53 -!- KonohaDerek [b4cc0a34@gateway/web/freenode/ip.180.204.10.52] has quit [Client Quit]
+09:54 -!- Allen_ [1bf708f5@gateway/web/freenode/ip.27.247.8.245] has quit [Ping timeout: 252 seconds]
+09:54 -!- Bizarre [2a4853c3@gateway/web/freenode/ip.42.72.83.195] has quit [Ping timeout: 252 seconds]
+09:54 -!- ericchen [6e1a6248@gateway/web/freenode/ip.110.26.98.72] has joined #HITCON
+09:54 -!- david_ [uid312354@gateway/web/irccloud.com/x-upcdnbbbntoujapz] has joined #HITCON
+09:54 -!- david_ is now known as david_A
+09:55 -!- owen_ [df8cc4fb@gateway/web/freenode/ip.223.140.196.251] has quit [Ping timeout: 252 seconds]
+09:55 -!- Guest57927 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+09:55 < Voda> Scada真有這麼好打喔
+09:56 -!- K1MMYTH [0e00ed07@gateway/web/freenode/ip.14.0.237.7] has quit [Ping timeout: 252 seconds]
+09:57 -!- Oz__ [df885348@gateway/web/freenode/ip.223.136.83.72] has joined #HITCON
+09:57 -!- wayne [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+09:57 -!- Guest62837 [1bf745de@gateway/web/freenode/ip.27.247.69.222] has quit [Ping timeout: 252 seconds]
+09:57 -!- Turkey [270c69c3@gateway/web/freenode/ip.39.12.105.195] has joined #HITCON
+09:58 -!- Naomi_ [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Ping timeout: 252 seconds]
+09:58 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has quit [Ping timeout: 252 seconds]
+09:58 -!- meow0verflow_ [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Ping timeout: 252 seconds]
+09:58 < Oz__> 有人用app 連進來嗎？
+09:58 -!- Guest51931 [df8c5a3b@gateway/web/freenode/ip.223.140.90.59] has quit [Ping timeout: 252 seconds]
+09:58 -!- PASSENGER [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+09:59 -!- Kirby [1bf2498f@gateway/web/freenode/ip.27.242.73.143] has joined #HITCON
+09:59 < PASSENGER> HI
+09:59 -!- BBB_ [650d909b@gateway/web/freenode/ip.101.13.144.155] has joined #HITCON
+09:59 < david_A> 我用APP,畫面比較清爽
+09:59 -!- Guest17765 [72898671@gateway/web/freenode/ip.114.137.134.113] has quit [Ping timeout: 252 seconds]
+09:59 < david_A> 嗨嗨
+09:59 < PASSENGER> 共筆掛了？
+09:59 -!- XDDDD [~steve@49.215.164.0] has quit [Read error: Connection reset by peer]
+09:59 -!- BBB_ is now known as Guest20960
+09:59 -!- XXQQ [76a327bc@gateway/web/freenode/ip.118.163.39.188] has quit [Quit: Page closed]
+09:59 -!- zhen______ [01c83b47@gateway/web/freenode/ip.1.200.59.71] has quit [Ping timeout: 252 seconds]
+09:59 -!- R1soGG [6f473619@gateway/web/freenode/ip.111.71.54.25] has quit [Ping timeout: 252 seconds]
+09:59 -!- Ooo [270cabff@gateway/web/freenode/ip.39.12.171.255] has quit [Ping timeout: 252 seconds]
+09:59 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has joined #HITCON
+10:00 -!- Guest43875 [65890824@gateway/web/freenode/ip.101.137.8.36] has quit [Ping timeout: 252 seconds]
+10:00 -!- Erebuszz [df8c6898@gateway/web/freenode/ip.223.140.104.152] has joined #HITCON
+10:00 -!- Kelly [31dba3bd@gateway/web/freenode/ip.49.219.163.189] has joined #HITCON
+10:00 -!- Kelly [31dba3bd@gateway/web/freenode/ip.49.219.163.189] has quit [Client Quit]
+10:00 < Erebuszz> Hello!
+10:00 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has quit [Client Quit]
+10:00 -!- Kk [7288c0a3@gateway/web/freenode/ip.114.136.192.163] has quit [Ping timeout: 252 seconds]
+10:00 < PASSENGER> Erebus Hi
+10:01 -!- Kelly [31dba3bd@gateway/web/freenode/ip.49.219.163.189] has joined #HITCON
+10:01 -!- Ozx_ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has joined #HITCON
+10:01 < Kelly> Hi
+10:01 -!- Turkey [270c69c3@gateway/web/freenode/ip.39.12.105.195] has quit [Ping timeout: 252 seconds]
+10:02 < Voda> щ(˚ ▽˚ щ)
+10:02 < Tigerisme> 共筆問題已反應，處理中…
+10:02 -!- Guest [df8c0d54@gateway/web/freenode/ip.223.140.13.84] has joined #HITCON
+10:02 -!- Vt_ [df884e65@gateway/web/freenode/ip.223.136.78.101] has quit [Ping timeout: 252 seconds]
+10:02 -!- CB__ [df8d7db0@gateway/web/freenode/ip.223.141.125.176] has joined #HITCON
+10:02 -!- noname [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has joined #HITCON
+10:02 -!- jack [6e1cca05@gateway/web/freenode/ip.110.28.202.5] has joined #HITCON
+10:03 -!- XDDDD [~steve@49.215.164.0] has joined #HITCON
+10:03 < CB__> 手機版好難用
+10:03 -!- Kirby [1bf2498f@gateway/web/freenode/ip.27.242.73.143] has quit [Ping timeout: 252 seconds]
+10:03 -!- likeway [df89dbd7@gateway/web/freenode/ip.223.137.219.215] has quit [Ping timeout: 252 seconds]
+10:03 -!- danlu [~AndChat56@114-137-186-3.emome-ip.hinet.net] has quit [Quit: Bye]
+10:04 -!- danlu [~AndChat56@114-137-186-3.emome-ip.hinet.net] has joined #HITCON
+10:04 -!- Totoro_ [31db95b6@gateway/web/freenode/ip.49.219.149.182] has quit [Ping timeout: 252 seconds]
+10:04 -!- yuawn [6509929f@gateway/web/freenode/ip.101.9.146.159] has quit [Ping timeout: 252 seconds]
+10:04 < DannyLan> @@?
+10:04 < hashman> wifi 好像還是連不太上（汗...
+10:04 < DannyLan> Hi All
+10:04 -!- Mousetrap [658959e3@gateway/web/freenode/ip.101.137.89.227] has joined #HITCON
+10:04 -!- Rabbit [72889a81@gateway/web/freenode/ip.114.136.154.129] has quit [Ping timeout: 252 seconds]
+10:05 -!- PASSENGER [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+10:05 -!- Raikkonen [df883d6a@gateway/web/freenode/ip.223.136.61.106] has joined #HITCON
+10:05 -!- pika [01a45d8c@gateway/web/freenode/ip.1.164.93.140] has joined #HITCON
+10:05 -!- Goodapple [31d7b32d@gateway/web/freenode/ip.49.215.179.45] has joined #HITCON
+10:05 -!- Ozx_ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has quit [Ping timeout: 252 seconds]
+10:05 -!- Guest20960 [650d909b@gateway/web/freenode/ip.101.13.144.155] has quit [Ping timeout: 252 seconds]
+10:05 -!- Kia [2a4d4704@gateway/web/freenode/ip.42.77.71.4] has joined #HITCON
+10:06 -!- Shizumi [6f4716a1@gateway/web/freenode/ip.111.71.22.161] has joined #HITCON
+10:06 -!- chichi [6588baff@gateway/web/freenode/ip.101.136.186.255] has quit [Ping timeout: 252 seconds]
+10:06 -!- Goodapple [31d7b32d@gateway/web/freenode/ip.49.215.179.45] has quit [Client Quit]
+10:06 -!- mmmmm [~androirc@101.14.147.184] has quit [Quit: AndroIRC - Android IRC Client ( http://www.androirc.com )]
+10:06 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+10:06 < david_A> 我可以編輯也
+10:06 -!- WifiWorks [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+10:06 < david_A> @@
+10:07 < allenown_> 共筆就是大家編輯用呀？
+10:07 -!- ericchen [6e1a6248@gateway/web/freenode/ip.110.26.98.72] has quit [Ping timeout: 252 seconds]
+10:07 < david_A> 哈哈哈哈
+10:07 < david_A> 對啊
+10:07 < david_A> 因為剛剛說不能編輯@@
+10:08 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has joined #HITCON
+10:09 < allenown_> 登入後就可以編輯
+10:09 -!- noname [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has quit [Ping timeout: 252 seconds]
+10:09 -!- Gouryella [6f472ec3@gateway/web/freenode/ip.111.71.46.195] has joined #HITCON
+10:09 -!- owen_ [df8cc4fb@gateway/web/freenode/ip.223.140.196.251] has joined #HITCON
+10:09 < Oz__> 要用app 連一直跳sasl 求教學
+10:09 -!- hedgehog_r0 [df8c637b@gateway/web/freenode/ip.223.140.99.123] has joined #HITCON
+10:09 -!- Raikkonen [df883d6a@gateway/web/freenode/ip.223.136.61.106] has quit [Ping timeout: 252 seconds]
+10:09 -!- Erebuszz [df8c6898@gateway/web/freenode/ip.223.140.104.152] has quit [Ping timeout: 252 seconds]
+10:09 -!- Oozelin [df8c3059@gateway/web/freenode/ip.223.140.48.89] has joined #HITCON
+10:10 -!- Oozelin [df8c3059@gateway/web/freenode/ip.223.140.48.89] has quit [Client Quit]
+10:10 -!- Vtim [df884e65@gateway/web/freenode/ip.223.136.78.101] has joined #HITCON
+10:10 -!- Kelly [31dba3bd@gateway/web/freenode/ip.49.219.163.189] has quit [Ping timeout: 252 seconds]
+10:10 -!- Erebuszz [df8c6898@gateway/web/freenode/ip.223.140.104.152] has joined #HITCON
+10:10 -!- Totoro_ [31db95b6@gateway/web/freenode/ip.49.219.149.182] has joined #HITCON
+10:11 -!- Gouryella_ [6f472ec3@gateway/web/freenode/ip.111.71.46.195] has joined #HITCON
+10:11 -!- owen_ [df8cc4fb@gateway/web/freenode/ip.223.140.196.251] has quit [Client Quit]
+10:11 -!- Gouryella_ [6f472ec3@gateway/web/freenode/ip.111.71.46.195] has quit [Client Quit]
+10:11 -!- jack [6e1cca05@gateway/web/freenode/ip.110.28.202.5] has quit [Ping timeout: 252 seconds]
+10:11 -!- Snidjnofjgdi [72891c79@gateway/web/freenode/ip.114.137.28.121] has joined #HITCON
+10:11 < david_A> 好哦，謝啦
+10:12 -!- Erebuszz__ [df8c6898@gateway/web/freenode/ip.223.140.104.152] has joined #HITCON
+10:12 -!- Mousetrap [658959e3@gateway/web/freenode/ip.101.137.89.227] has quit [Ping timeout: 252 seconds]
+10:12 -!- Snidjnofjgdi [72891c79@gateway/web/freenode/ip.114.137.28.121] has quit [Client Quit]
+10:12 -!- tbonebone [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+10:12 -!- XDDDD [~steve@49.215.164.0] has quit [Quit: leaving]
+10:12 < tbonebone> ping
+10:12 -!- Raikkonen [df883d6a@gateway/web/freenode/ip.223.136.61.106] has joined #HITCON
+10:12 < allenown_> pong
+10:13 -!- Idirknrih [72891c79@gateway/web/freenode/ip.114.137.28.121] has joined #HITCON
+10:13 < tbonebone> its a little bit hot in R0
+10:13 -!- zekt [~yaaic@101.9.71.229] has quit [Read error: Connection reset by peer]
+10:13 -!- Gouryella [6f472ec3@gateway/web/freenode/ip.111.71.46.195] has quit [Ping timeout: 252 seconds]
+10:13 -!- Hedgehog [df8c637b@gateway/web/freenode/ip.223.140.99.123] has joined #HITCON
+10:14 -!- noname [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has joined #HITCON
+10:14 -!- Teemo [ca52df44@gateway/web/freenode/ip.202.82.223.68] has joined #HITCON
+10:14 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has joined #HITCON
+10:14 -!- Kia [2a4d4704@gateway/web/freenode/ip.42.77.71.4] has quit [Ping timeout: 252 seconds]
+10:15 -!- Erebuszz [df8c6898@gateway/web/freenode/ip.223.140.104.152] has quit [Ping timeout: 252 seconds]
+10:15 -!- nonam [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has joined #HITCON
+10:15 -!- Newbuy [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+10:16 -!- hedgehog_r0 [df8c637b@gateway/web/freenode/ip.223.140.99.123] has quit [Ping timeout: 252 seconds]
+10:16 -!- Kelly [31dba3bd@gateway/web/freenode/ip.49.219.163.189] has joined #HITCON
+10:17 -!- Kelly [31dba3bd@gateway/web/freenode/ip.49.219.163.189] has quit [Client Quit]
+10:17 -!- sudifiekglgld [uid312359@gateway/web/irccloud.com/x-gbiubahgqejfnqyh] has joined #HITCON
+10:17 -!- Idirknrih [72891c79@gateway/web/freenode/ip.114.137.28.121] has quit [Ping timeout: 252 seconds]
+10:17 < sudifiekglgld> Hi
+10:18 -!- noname [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has quit [Ping timeout: 252 seconds]
+10:18 -!- Hedgehog [df8c637b@gateway/web/freenode/ip.223.140.99.123] has quit [Ping timeout: 252 seconds]
+10:18 -!- Elfiend [1b34221c@gateway/web/freenode/ip.27.52.34.28] has joined #HITCON
+10:19 < allenown_> tbonebone: ok, reported
+10:19 -!- Raikkonen [df883d6a@gateway/web/freenode/ip.223.136.61.106] has quit [Ping timeout: 252 seconds]
+10:19 -!- Totoro_ [31db95b6@gateway/web/freenode/ip.49.219.149.182] has quit [Ping timeout: 252 seconds]
+10:19 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has quit [Ping timeout: 252 seconds]
+10:19 -!- walala [d3163d4a@gateway/web/freenode/ip.211.22.61.74] has joined #HITCON
+10:19 -!- Guest [df8c0d54@gateway/web/freenode/ip.223.140.13.84] has quit [Quit: Page closed]
+10:19 -!- River [df889a3a@gateway/web/freenode/ip.223.136.154.58] has joined #HITCON
+10:19 -!- owen_ [df8cc4fb@gateway/web/freenode/ip.223.140.196.251] has joined #HITCON
+10:20 -!- Allen [df8cbb84@gateway/web/freenode/ip.223.140.187.132] has quit [Quit: Page closed]
+10:20 -!- River [df889a3a@gateway/web/freenode/ip.223.136.154.58] has quit [Client Quit]
+10:20 -!- Ruth [42854c26@gateway/web/freenode/ip.66.133.76.38] has joined #HITCON
+10:20 -!- Allengo [df8cbb84@gateway/web/freenode/ip.223.140.187.132] has joined #HITCON
+10:20 -!- Nickname1111 [df8821c1@gateway/web/freenode/ip.223.136.33.193] has joined #HITCON
+10:21 -!- Ruth [42854c26@gateway/web/freenode/ip.66.133.76.38] has quit [Client Quit]
+10:21 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has quit [Quit: http://www.kiwiirc.com/ - A hand crafted IRC client]
+10:21 -!- Nickname1111 [df8821c1@gateway/web/freenode/ip.223.136.33.193] has quit [Client Quit]
+10:21 -!- mmmmm [~androirc@101.14.147.184] has joined #HITCON
+10:21 -!- mmmmm [~androirc@101.14.147.184] has quit [Client Quit]
+10:21 -!- Jack_ [318283b3@gateway/web/freenode/ip.49.130.131.179] has joined #HITCON
+10:21 -!- Jack_ [318283b3@gateway/web/freenode/ip.49.130.131.179] has quit [Client Quit]
+10:22 -!- GGInInDer [728803b2@gateway/web/freenode/ip.114.136.3.178] has joined #HITCON
+10:22 -!- nonam [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has quit [Ping timeout: 252 seconds]
+10:22 -!- Jack_ [318283b3@gateway/web/freenode/ip.49.130.131.179] has joined #HITCON
+10:22 < Jack_> Hi
+10:23 -!- Jack_ [318283b3@gateway/web/freenode/ip.49.130.131.179] has quit [Client Quit]
+10:23 -!- Erebuszz__ [df8c6898@gateway/web/freenode/ip.223.140.104.152] has quit [Ping timeout: 252 seconds]
+10:23 < Newbuy> 是部長！
+10:23 -!- Jack_ [318283b3@gateway/web/freenode/ip.49.130.131.179] has joined #HITCON
+10:23 -!- GGInInDer [728803b2@gateway/web/freenode/ip.114.136.3.178] has quit [Client Quit]
+10:24 < Jack_> 有人嗎？
+10:24 < allenown_> 有
+10:24 -!- owen_ [df8cc4fb@gateway/web/freenode/ip.223.140.196.251] has quit [Ping timeout: 252 seconds]
+10:24 -!- HKenum [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has joined #HITCON
+10:24 -!- Cc [728803b2@gateway/web/freenode/ip.114.136.3.178] has joined #HITCON
+10:24 -!- Drtok [~androirc@180.204.50.99] has quit [Read error: Connection reset by peer]
+10:24 -!- Cc is now known as Guest24421
+10:25 < Jack_> 有香港的朋友嗎？
+10:25 -!- Jackau [31d9e724@gateway/web/freenode/ip.49.217.231.36] has joined #HITCON
+10:26 -!- wayne [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+10:26 < Guest24421> SkrSkrSkrSkrSkrSkr
+10:27 -!- Oz___ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has joined #HITCON
+10:27 -!- Lavino [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has joined #HITCON
+10:27 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has quit [Ping timeout: 252 seconds]
+10:27 -!- CB__ [df8d7db0@gateway/web/freenode/ip.223.141.125.176] has quit [Ping timeout: 252 seconds]
+10:27 < Jack_> Hi lavino
+10:27 < Jack_> I am jack
+10:28 < Jackau> Hey what’s up
+10:28 -!- Enum [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has joined #HITCON
+10:30 -!- Newbuy [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+10:30 -!- Vtim [df884e65@gateway/web/freenode/ip.223.136.78.101] has quit [Ping timeout: 252 seconds]
+10:30 -!- Golden [3ddbafc6@gateway/web/freenode/ip.61.219.175.198] has joined #HITCON
+10:30 -!- sudifiekglgld is now known as leo
+10:31 -!- HKenum [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has quit [Ping timeout: 252 seconds]
+10:31 -!- Golden [3ddbafc6@gateway/web/freenode/ip.61.219.175.198] has left #HITCON []
+10:31 -!- leo is now known as Guest63725
+10:31 < Teemo> CWIVE嘅朋友呢?
+10:31 -!- Lavino [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has quit [Ping timeout: 252 seconds]
+10:31 -!- Oz___ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has quit [Ping timeout: 252 seconds]
+10:31 -!- golden [3ddbafc6@gateway/web/freenode/ip.61.219.175.198] has joined #HITCON
+10:32 -!- Jackau [31d9e724@gateway/web/freenode/ip.49.217.231.36] has quit [Ping timeout: 252 seconds]
+10:33 -!- Elfiend [1b34221c@gateway/web/freenode/ip.27.52.34.28] has quit [Ping timeout: 252 seconds]
+10:33 -!- Jiero [df891492@gateway/web/freenode/ip.223.137.20.146] has quit [Ping timeout: 252 seconds]
+10:33 -!- Allengo [df8cbb84@gateway/web/freenode/ip.223.140.187.132] has quit [Ping timeout: 252 seconds]
+10:33 -!- AIDO_ [7513358a@gateway/web/freenode/ip.117.19.53.138] has quit [Ping timeout: 252 seconds]
+10:34 -!- Shizumi [6f4716a1@gateway/web/freenode/ip.111.71.22.161] has quit [Ping timeout: 252 seconds]
+10:35 -!- likeway [df89dbd7@gateway/web/freenode/ip.223.137.219.215] has joined #HITCON
+10:35 -!- wayne [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+10:36 -!- Voda [6e1c812f@gateway/web/freenode/ip.110.28.129.47] has quit [Ping timeout: 252 seconds]
+10:36 -!- chichi [6588baff@gateway/web/freenode/ip.101.136.186.255] has joined #HITCON
+10:37 -!- Guest24421 [728803b2@gateway/web/freenode/ip.114.136.3.178] has quit [Quit: Page closed]
+10:37 -!- Enum [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has quit [Ping timeout: 252 seconds]
+10:38 -!- tbonebone [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+10:39 -!- Teemo [ca52df44@gateway/web/freenode/ip.202.82.223.68] has left #HITCON []
+10:39 -!- likeway [df89dbd7@gateway/web/freenode/ip.223.137.219.215] has quit [Ping timeout: 252 seconds]
+10:39 -!- Jackau [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has joined #HITCON
+10:40 -!- Oz___ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has joined #HITCON
+10:40 -!- PY [3b782a52@gateway/web/freenode/ip.59.120.42.82] has joined #HITCON
+10:40 -!- mmmmm [~androirc@101.14.147.184] has joined #HITCON
+10:41 -!- mmmm [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+10:42 -!- Jackau [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has quit [Client Quit]
+10:42 -!- SleepZ [7288bf94@gateway/web/freenode/ip.114.136.191.148] has quit [Ping timeout: 252 seconds]
+10:42 < Tigerisme> R0 後面聽的到嗎～？
+10:43 -!- chichi [6588baff@gateway/web/freenode/ip.101.136.186.255] has quit [Ping timeout: 252 seconds]
+10:43 -!- waeting [6f52c609@gateway/web/freenode/ip.111.82.198.9] has joined #HITCON
+10:43 < mmmm> r0人好多
+10:44 < Oz___> R0爆炸了
+10:44 -!- Oz__ [df885348@gateway/web/freenode/ip.223.136.83.72] has quit [Ping timeout: 252 seconds]
+10:44 < ws23_> Orange 的吸引力太強大了XD
+10:45 -!- chichi [6588baff@gateway/web/freenode/ip.101.136.186.255] has joined #HITCON
+10:45 -!- ws23 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+10:45 -!- ws23_ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Quit: Page closed]
+10:45 -!- mmm [01c8daa7@gateway/web/freenode/ip.1.200.218.167] has joined #HITCON
+10:45 -!- mmm [01c8daa7@gateway/web/freenode/ip.1.200.218.167] has quit [Client Quit]
+10:46 -!- mmm [01c8daa7@gateway/web/freenode/ip.1.200.218.167] has joined #HITCON
+10:47 -!- meow0verflow [3b782a52@gateway/web/freenode/ip.59.120.42.82] has joined #HITCON
+10:48 -!- meow0verflow [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Client Quit]
+10:48 -!- Oz___ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has quit [Ping timeout: 252 seconds]
+10:48 -!- meow0verflow [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+10:49 -!- golden [3ddbafc6@gateway/web/freenode/ip.61.219.175.198] has quit [Quit: Page closed]
+10:49 -!- PY [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Ping timeout: 252 seconds]
+10:51 -!- noname [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has joined #HITCON
+10:51 -!- Hedgehog [df8c637b@gateway/web/freenode/ip.223.140.99.123] has joined #HITCON
+10:52 -!- mmmm [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+10:52 -!- QQ [27084a37@gateway/web/freenode/ip.39.8.74.55] has joined #HITCON
+10:53 -!- allen [1bf708f5@gateway/web/freenode/ip.27.247.8.245] has joined #HITCON
+10:53 -!- QQ is now known as Guest13902
+10:53 < Hedgehog> 請問這次硬體錢包的測試App 是不是不支援SE呢...QQ
+10:54 -!- adr__ [uid109574@gateway/web/irccloud.com/x-noztkwyddkxxerys] has joined #HITCON
+10:54 -!- mmm [01c8daa7@gateway/web/freenode/ip.1.200.218.167] has quit [Ping timeout: 252 seconds]
+10:56 -!- Guest13902 [27084a37@gateway/web/freenode/ip.39.8.74.55] has quit [Ping timeout: 252 seconds]
+10:57 -!- sleepcat [721a8dc5@gateway/web/freenode/ip.114.26.141.197] has joined #HITCON
+10:57 -!- sleepcat [721a8dc5@gateway/web/freenode/ip.114.26.141.197] has quit [Client Quit]
+10:58 -!- noname [7288c3c0@gateway/web/freenode/ip.114.136.195.192] has quit [Ping timeout: 252 seconds]
+10:59 -!- admas [65881a02@gateway/web/freenode/ip.101.136.26.2] has joined #HITCON
+11:00 -!- Guest [df8c0d54@gateway/web/freenode/ip.223.140.13.84] has joined #HITCON
+11:01 < Guest> 進不去R0啊
+11:02 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+11:02 -!- LittleJack [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has joined #HITCON
+11:03 -!- Tomato_ [31db83f8@gateway/web/freenode/ip.49.219.131.248] has joined #HITCON
+11:03 -!- RBH [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+11:03 -!- RBH [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Client Quit]
+11:04 -!- Guest [df8c0d54@gateway/web/freenode/ip.223.140.13.84] has left #HITCON []
+11:06 -!- allen [1bf708f5@gateway/web/freenode/ip.27.247.8.245] has quit [Ping timeout: 252 seconds]
+11:06 < Tigerisme> 誰刪掉 R0 的共筆… Q"Q
+11:07 -!- Tomato_ [31db83f8@gateway/web/freenode/ip.49.219.131.248] has quit [Ping timeout: 252 seconds]
+11:07 -!- llll [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+11:08 -!- ^_^ [7a74b976@gateway/web/freenode/ip.122.116.185.118] has joined #HITCON
+11:08 -!- wayne [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+11:08 -!- ^_^ is now known as Guest63732
+11:08 -!- hitcon [650901f0@gateway/web/freenode/ip.101.9.1.240] has joined #HITCON
+11:09 < hitcon> PPT放哪裡啊
+11:09 < Tigerisme> 議程助理資料夾(？
+11:10 -!- tbonebone [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+11:10 -!- kid_naive [uid180019@gateway/web/irccloud.com/x-bspcxuwcqgkdubts] has quit [Quit: Connection closed for inactivity]
+11:12 -!- Rancor [27090af7@gateway/web/freenode/ip.39.9.10.247] has joined #HITCON
+11:13 -!- LittleJack [b6ef6904@gateway/web/freenode/ip.182.239.105.4] has quit [Ping timeout: 252 seconds]
+11:15 -!- Qqqqqiouu [23ea19b5@gateway/web/freenode/ip.35.234.25.181] has joined #HITCON
+11:15 -!- Oz__ [df885348@gateway/web/freenode/ip.223.136.83.72] has joined #HITCON
+11:16 -!- Qqqqqiouu [23ea19b5@gateway/web/freenode/ip.35.234.25.181] has quit [Client Quit]
+11:18 -!- owen_ [df8cc4fb@gateway/web/freenode/ip.223.140.196.251] has joined #HITCON
+11:18 -!- zekt [~yaaic@59-120-42-83.HINET-IP.hinet.net] has joined #HITCON
+11:19 -!- hitcon [650901f0@gateway/web/freenode/ip.101.9.1.240] has quit [Ping timeout: 252 seconds]
+11:19 < Tigerisme> R0 地毯開始有人佔位惹…
+11:20 -!- meow0verflow [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+11:21 < waeting> 再啦乾
+11:22 -!- meow0verflow [3b782a52@gateway/web/freenode/ip.59.120.42.82] has joined #HITCON
+11:22 -!- Oz__ [df885348@gateway/web/freenode/ip.223.136.83.72] has quit [Ping timeout: 252 seconds]
+11:22 -!- Tri [b4d9611f@gateway/web/freenode/ip.180.217.97.31] has joined #HITCON
+11:22 <@allenown> 這是梗
+11:22 -!- Jack_ [318283b3@gateway/web/freenode/ip.49.130.131.179] has quit [Ping timeout: 252 seconds]
+11:22 -!- Geo_ [df888d92@gateway/web/freenode/ip.223.136.141.146] has joined #HITCON
+11:23 -!- llll [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+11:24 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+11:24 -!- owen__ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+11:26 -!- zekt [~yaaic@59-120-42-83.HINET-IP.hinet.net] has quit [Read error: Connection reset by peer]
+11:28 -!- owen_ [df8cc4fb@gateway/web/freenode/ip.223.140.196.251] has quit [Ping timeout: 252 seconds]
+11:29 -!- Tri [b4d9611f@gateway/web/freenode/ip.180.217.97.31] has quit [Ping timeout: 252 seconds]
+11:29 -!- Oz__ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has joined #HITCON
+11:31 -!- Oz___ [df885348@gateway/web/freenode/ip.223.136.83.72] has joined #HITCON
+11:32 -!- Hedgehog [df8c637b@gateway/web/freenode/ip.223.140.99.123] has quit [Quit: Page closed]
+11:32 -!- owen__ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+11:33 -!- Oz__ [24e327d4@gateway/web/freenode/ip.36.227.39.212] has quit [Ping timeout: 252 seconds]
+11:34 -!- admas [65881a02@gateway/web/freenode/ip.101.136.26.2] has quit [Ping timeout: 252 seconds]
+11:36 -!- tbonebone [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+11:37 -!- waeting [6f52c609@gateway/web/freenode/ip.111.82.198.9] has quit [Ping timeout: 252 seconds]
+11:39 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has joined #HITCON
+11:40 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+11:40 -!- ws23 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+11:42 -!- meow0verflow [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Ping timeout: 252 seconds]
+11:42 -!- chichi [6588baff@gateway/web/freenode/ip.101.136.186.255] has quit [Ping timeout: 252 seconds]
+11:45 -!- Guest63732 [7a74b976@gateway/web/freenode/ip.122.116.185.118] has quit [Ping timeout: 252 seconds]
+11:49 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+11:50 -!- d0gm4n [uid38259@gateway/web/irccloud.com/x-mgbzrlzxroianfud] has quit [Quit: Connection closed for inactivity]
+11:51 -!- PhoenixWolf [uid246937@gateway/web/irccloud.com/x-bisstrqnhapwflbn] has quit [Quit: Connection closed for inactivity]
+11:54 -!- Tigerisme [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+11:55 -!- Oz___ [df885348@gateway/web/freenode/ip.223.136.83.72] has quit [Ping timeout: 252 seconds]
+11:57 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+11:57 -!- Tri [b4d9611f@gateway/web/freenode/ip.180.217.97.31] has joined #HITCON
+11:58 -!- jackzie [650d7073@gateway/web/freenode/ip.101.13.112.115] has quit [Ping timeout: 252 seconds]
+11:59 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has quit [Ping timeout: 252 seconds]
+12:01 -!- Tri [b4d9611f@gateway/web/freenode/ip.180.217.97.31] has quit [Client Quit]
+12:04 -!- Shu [2a499bdd@gateway/web/freenode/ip.42.73.155.221] has joined #HITCON
+12:05 -!- Shu [2a499bdd@gateway/web/freenode/ip.42.73.155.221] has quit [Client Quit]
+12:05 -!- QQQQAQQQQQ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:06 -!- Anotherday [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:07 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+12:09 -!- anotherday123 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:09 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+12:09 -!- zekt [uid312370@gateway/web/irccloud.com/x-drhfwdkbsnrdbcxm] has joined #HITCON
+12:09 -!- Creeper [b4d99882@gateway/web/freenode/ip.180.217.152.130] has joined #HITCON
+12:10 < Creeper> Tesr
+12:10 -!- Creeper [b4d99882@gateway/web/freenode/ip.180.217.152.130] has quit [Client Quit]
+12:11 -!- Anotherday [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+12:12 -!- QQQQAQQQQQ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+12:13 -!- cccc [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:15 -!- popopo [3dd80b58@gateway/web/freenode/ip.61.216.11.88] has joined #HITCON
+12:15 < popopo> hihihihihihihihihihihihihihihihihihihihi
+12:18 -!- harrier_ [df8c21f5@gateway/web/freenode/ip.223.140.33.245] has joined #HITCON
+12:18 -!- anotherday123 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+12:19 -!- cccc [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Quit: Page closed]
+12:19 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+12:21 -!- Geo_ [df888d92@gateway/web/freenode/ip.223.136.141.146] has quit [Ping timeout: 252 seconds]
+12:23 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+12:26 -!- QQ [df8cafd9@gateway/web/freenode/ip.223.140.175.217] has joined #HITCON
+12:26 -!- danlu [~AndChat56@114-137-186-3.emome-ip.hinet.net] has quit [Read error: Connection reset by peer]
+12:26 -!- QQ_ [df8cafd9@gateway/web/freenode/ip.223.140.175.217] has joined #HITCON
+12:26 -!- QQ is now known as Guest24441
+12:28 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+12:29 -!- Rancor [27090af7@gateway/web/freenode/ip.39.9.10.247] has quit [Ping timeout: 252 seconds]
+12:31 -!- Guest24441 [df8cafd9@gateway/web/freenode/ip.223.140.175.217] has quit [Ping timeout: 252 seconds]
+12:31 -!- QQ_ [df8cafd9@gateway/web/freenode/ip.223.140.175.217] has quit [Ping timeout: 252 seconds]
+12:33 -!- Griiid [3ddb90d3@gateway/web/freenode/ip.61.219.144.211] has joined #HITCON
+12:33 -!- d0gm4n [uid38259@gateway/web/irccloud.com/x-zigtwbuzwepnjesg] has joined #HITCON
+12:35 < Griiid> Hello HITCON CMT 2018
+12:35 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+12:36 -!- Shizumi [6f4716a1@gateway/web/freenode/ip.111.71.22.161] has joined #HITCON
+12:37 -!- RBH [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:37 -!- yee [uid175515@gateway/web/irccloud.com/x-ibrfybghuolrtxlc] has joined #HITCON
+12:38 < Shizumi> R2 streaming is no live. URL changed ?
+12:39 -!- douasin [df89c0d6@gateway/web/freenode/ip.223.137.192.214] has joined #HITCON
+12:39 < douasin> Test
+12:40 < Shizumi> Sorry... Streamed
+12:41 -!- danlu [~AndChat56@114-137-186-3.emome-ip.hinet.net] has joined #HITCON
+12:41 -!- Voda [6e1c812f@gateway/web/freenode/ip.110.28.129.47] has joined #HITCON
+12:43 -!- ccn_____ [uid29711@gateway/web/irccloud.com/x-adrbcosyxwbgihdo] has quit [Quit: Connection closed for inactivity]
+12:44 -!- Shizumi [6f4716a1@gateway/web/freenode/ip.111.71.22.161] has quit [Ping timeout: 252 seconds]
+12:44 -!- HAL [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:45 -!- quexint [~quexint@59-127-50-234.HINET-IP.hinet.net] has joined #HITCON
+12:45 -!- HAL is now known as Guest55338
+12:45 -!- ws23 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:45 -!- RBH [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+12:46 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+12:46 -!- Derek_ [b4cc0a34@gateway/web/freenode/ip.180.204.10.52] has joined #HITCON
+12:46 < Derek_> test
+12:47 -!- Guest55338 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Client Quit]
+12:48 -!- douasin [df89c0d6@gateway/web/freenode/ip.223.137.192.214] has quit [Ping timeout: 252 seconds]
+12:48 -!- harrier_ [df8c21f5@gateway/web/freenode/ip.223.140.33.245] has quit [Ping timeout: 252 seconds]
+12:51 -!- nagi [~nagi@180.204.32.212] has quit [Ping timeout: 256 seconds]
+12:55 -!- hoho [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+12:56 < Derek_> 機台玩得好開心
+12:57 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+12:58 -!- Robert_ [7bc28a29@gateway/web/freenode/ip.123.194.138.41] has joined #HITCON
+12:58 -!- ChBH [31d9f59a@gateway/web/freenode/ip.49.217.245.154] has joined #HITCON
+12:58 -!- Robert_ is now known as Guest44072
+12:58 -!- allenown_ [uid13449@gateway/web/irccloud.com/x-uezfbqdfsvyddtha] has quit [Quit: Connection closed for inactivity]
+12:59 < Guest44072> hi viki
+12:59 < VIKI> 嗨, Guest44072
+12:59 -!- ws23 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Quit: Page closed]
+12:59 -!- hoho [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+12:59 < Guest44072> 媽我在這
+12:59 < JYNY> viki 還在
+13:00 -!- ChBH [31d9f59a@gateway/web/freenode/ip.49.217.245.154] has quit [Client Quit]
+13:02 -!- Voda [6e1c812f@gateway/web/freenode/ip.110.28.129.47] has quit [Ping timeout: 252 seconds]
+13:03 -!- Haruru [d2d10b90@gateway/web/freenode/ip.210.209.11.144] has joined #HITCON
+13:06 -!- ws23 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+13:08 < Griiid> viki 一直都在
+13:08 < Griiid> viki 無所不在
+13:08 < Griiid> viki 在你後面
+13:09 < Griiid> viki bye
+13:09 < VIKI> Griiid 掰掰
+13:09 < Derek_> 不是在你心裡嗎
+13:09 -!- douasin [df89c0d6@gateway/web/freenode/ip.223.137.192.214] has joined #HITCON
+13:10 -!- meow0verflow [3b782a52@gateway/web/freenode/ip.59.120.42.82] has joined #HITCON
+13:10 -!- Guest44072 [7bc28a29@gateway/web/freenode/ip.123.194.138.41] has quit [Ping timeout: 252 seconds]
+13:10 -!- Vence [24e15f59@gateway/web/freenode/ip.36.225.95.89] has joined #HITCON
+13:11 -!- ViolinTiger [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+13:11 -!- anfa [uid110068@gateway/web/irccloud.com/x-suniblbtlarqxxli] has quit [Quit: Connection closed for inactivity]
+13:14 -!- Vence [24e15f59@gateway/web/freenode/ip.36.225.95.89] has quit [Client Quit]
+13:15 -!- Vence [24e15f59@gateway/web/freenode/ip.36.225.95.89] has joined #HITCON
+13:16 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has joined #HITCON
+13:18 < Derek_> irc 真安靜
+13:18 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+13:18 -!- douasin [df89c0d6@gateway/web/freenode/ip.223.137.192.214] has quit [Ping timeout: 252 seconds]
+13:19 -!- CLJY [7288de77@gateway/web/freenode/ip.114.136.222.119] has joined #HITCON
+13:19 < CLJY> 真安静
+13:19 -!- Vence [24e15f59@gateway/web/freenode/ip.36.225.95.89] has quit [Ping timeout: 252 seconds]
+13:19 < JYNY> 真安靜QQ
+13:20 < Derek_> 是這次大家都不想拿出ＮＢ了嗎ＸＤ
+13:21 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has joined #HITCON
+13:21 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+13:22 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has joined #HITCON
+13:22 < knowlet> 聽說會場有賭徒呢
+13:22 < knowlet> https://m.twitch.tv/kevin_wy?desktop-redirect=true
+13:22 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has quit [Ping timeout: 252 seconds]
+13:23 < Derek_> 刷幣刷得很開心ＸＤ
+13:23 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has quit [Client Quit]
+13:24 -!- adr__ [uid109574@gateway/web/irccloud.com/x-noztkwyddkxxerys] has quit [Quit: Connection closed for inactivity]
+13:25 < Derek_> 可以問hitcon wallet app 的問題嗎
+13:25 -!- nagi [~nagi@180.204.32.212] has quit [Ping timeout: 248 seconds]
+13:26 -!- CLJY [7288de77@gateway/web/freenode/ip.114.136.222.119] has quit [Ping timeout: 252 seconds]
+13:27 -!- Haruru [d2d10b90@gateway/web/freenode/ip.210.209.11.144] has quit [Ping timeout: 252 seconds]
+13:27 -!- Griiid [3ddb90d3@gateway/web/freenode/ip.61.219.144.211] has quit [Ping timeout: 252 seconds]
+13:28 -!- meow0verflow [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Ping timeout: 252 seconds]
+13:29 -!- HC_ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+13:29 -!- HC_ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Client Quit]
+13:29 -!- Penguin_ [df88fca8@gateway/web/freenode/ip.223.136.252.168] has joined #HITCON
+13:30 -!- Penguin_ [df88fca8@gateway/web/freenode/ip.223.136.252.168] has quit [Client Quit]
+13:30 -!- Nosksk [72891c79@gateway/web/freenode/ip.114.137.28.121] has joined #HITCON
+13:33 -!- meow0verflow [7513e885@gateway/web/freenode/ip.117.19.232.133] has joined #HITCON
+13:34 -!- Griiid [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+13:34 -!- Nosksk [72891c79@gateway/web/freenode/ip.114.137.28.121] has quit [Ping timeout: 252 seconds]
+13:36 -!- chichi [6588baff@gateway/web/freenode/ip.101.136.186.255] has joined #HITCON
+13:37 -!- meow0verflow [7513e885@gateway/web/freenode/ip.117.19.232.133] has quit [Ping timeout: 252 seconds]
+13:38 -!- Derek_ [b4cc0a34@gateway/web/freenode/ip.180.204.10.52] has quit [Ping timeout: 252 seconds]
+13:38 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has quit [Ping timeout: 252 seconds]
+13:39 -!- PhoenixWolf [uid246937@gateway/web/irccloud.com/x-mlkgmcbnvgwhxnky] has joined #HITCON
+13:39 < PhoenixWolf> OAO
+13:39 -!- allenown_ [uid13449@gateway/web/irccloud.com/x-gdmpuoziutzltnyh] has joined #HITCON
+13:39 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has joined #HITCON
+13:39 -!- anfa [uid110068@gateway/web/irccloud.com/x-yioknpzixvpvlctt] has joined #HITCON
+13:39 -!- pika [01a45d8c@gateway/web/freenode/ip.1.164.93.140] has quit [Quit: Page closed]
+13:40 -!- HRY [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+13:41 -!- elfiend [~elfiend@27-52-34-28.adsl.fetnet.net] has joined #HITCON
+13:43 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has quit [Client Quit]
+13:43 -!- elfiend [~elfiend@27-52-34-28.adsl.fetnet.net] has quit [Client Quit]
+13:43 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has joined #HITCON
+13:44 -!- elfiend [~elfiend@27-52-34-28.adsl.fetnet.net] has joined #HITCON
+13:44 -!- testtt123 [72891b7e@gateway/web/freenode/ip.114.137.27.126] has joined #HITCON
+13:44 -!- HRY [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+13:45 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has quit [Client Quit]
+13:46 -!- douasin [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+13:46 < douasin> @@
+13:46 -!- jj123 [72891b7e@gateway/web/freenode/ip.114.137.27.126] has joined #HITCON
+13:47 -!- elfiend [~elfiend@27-52-34-28.adsl.fetnet.net] has quit [Client Quit]
+13:47 -!- Tooth_ [7288fabb@gateway/web/freenode/ip.114.136.250.187] has joined #HITCON
+13:48 -!- testtt123 [72891b7e@gateway/web/freenode/ip.114.137.27.126] has quit [Ping timeout: 252 seconds]
+13:49 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has joined #HITCON
+13:50 < PhoenixWolf> 慣例等ppt公開（？
+13:51 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has joined #HITCON
+13:52 -!- Tooth_ [7288fabb@gateway/web/freenode/ip.114.136.250.187] has quit [Ping timeout: 252 seconds]
+13:52 -!- John_ [1bf745de@gateway/web/freenode/ip.27.247.69.222] has joined #HITCON
+13:52 -!- jj123 [72891b7e@gateway/web/freenode/ip.114.137.27.126] has quit [Ping timeout: 252 seconds]
+13:53 -!- John_ is now known as Guest3905
+13:54 -!- Guest3905 [1bf745de@gateway/web/freenode/ip.27.247.69.222] has quit [Client Quit]
+13:54 -!- Griiid [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+13:54 -!- elfiend [~elfiend@27-52-34-28.adsl.fetnet.net] has joined #HITCON
+13:55 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+13:59 -!- g123 [01c83b47@gateway/web/freenode/ip.1.200.59.71] has joined #HITCON
+14:00 -!- Gg_ [1b346bda@gateway/web/freenode/ip.27.52.107.218] has quit [Ping timeout: 252 seconds]
+14:02 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+14:03 -!- elfiend [~elfiend@27-52-34-28.adsl.fetnet.net] has quit [Quit: Mutter: www.mutterirc.com]
+14:04 -!- duckll [~duckll@li1689-241.members.linode.com] has joined #HITCON
+14:05 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+14:08 -!- duckll [~duckll@li1689-241.members.linode.com] has quit [Remote host closed the connection]
+14:08 -!- g123 [01c83b47@gateway/web/freenode/ip.1.200.59.71] has quit [Ping timeout: 252 seconds]
+14:08 -!- AIDO_ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+14:09 -!- duckll [~duckll@li1689-241.members.linode.com] has joined #HITCON
+14:09 -!- duckll [~duckll@li1689-241.members.linode.com] has quit [Client Quit]
+14:10 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has joined #HITCON
+14:11 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+14:11 -!- adams_ [65881a02@gateway/web/freenode/ip.101.136.26.2] has quit [Ping timeout: 252 seconds]
+14:11 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has quit [Client Quit]
+14:12 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+14:12 < PhoenixWolf> 今年共筆 irc是不是都比較冷 XD
+14:17 -!- nagi [~nagi@180.204.32.212] has quit [Ping timeout: 264 seconds]
+14:21 -!- chichi [6588baff@gateway/web/freenode/ip.101.136.186.255] has quit [Ping timeout: 252 seconds]
+14:21 -!- yy_ [d317272e@gateway/web/freenode/ip.211.23.39.46] has joined #HITCON
+14:21 -!- Phoenixwolf_ [6f471689@gateway/web/freenode/ip.111.71.22.137] has joined #HITCON
+14:22 -!- yy_ [d317272e@gateway/web/freenode/ip.211.23.39.46] has quit [Client Quit]
+14:24 < Guest63725> 李院士來了?
+14:25 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+14:25 -!- Phoenixwolf_ [6f471689@gateway/web/freenode/ip.111.71.22.137] has quit [Ping timeout: 252 seconds]
+14:26 -!- AIDO_ [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+14:27 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+14:29 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+14:32 -!- douasin [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+14:33 -!- nagi [~nagi@180.204.32.212] has quit [Ping timeout: 265 seconds]
+14:34 -!- Chucky [6f47505f@gateway/web/freenode/ip.111.71.80.95] has joined #HITCON
+14:35 -!- Merlin_ [728992ac@gateway/web/freenode/ip.114.137.146.172] has joined #HITCON
+14:35 -!- Merlin_ is now known as Guest98509
+14:42 -!- QQ [df8cafd9@gateway/web/freenode/ip.223.140.175.217] has joined #HITCON
+14:43 -!- QQ is now known as Guest90380
+14:46 -!- Guest90380 [df8cafd9@gateway/web/freenode/ip.223.140.175.217] has quit [Ping timeout: 252 seconds]
+14:48 -!- Pp [27084a37@gateway/web/freenode/ip.39.8.74.55] has joined #HITCON
+14:49 < zekt> 綿羊牆壞了ㄇ QQ
+14:50 -!- d0gm4n [uid38259@gateway/web/irccloud.com/x-zigtwbuzwepnjesg] has quit [Quit: Connection closed for inactivity]
+14:50 -!- Guest98509 [728992ac@gateway/web/freenode/ip.114.137.146.172] has quit [Ping timeout: 252 seconds]
+14:50 -!- Meow0verflow [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+14:50 -!- sbhsu [~sbhsu@59-120-42-83.HINET-IP.hinet.net] has joined #HITCON
+14:50 -!- CHIEH [72258695@gateway/web/freenode/ip.114.37.134.149] has joined #HITCON
+14:51 -!- sbhsu [~sbhsu@59-120-42-83.HINET-IP.hinet.net] has quit [Client Quit]
+14:52 -!- sbhsu [~sbhsu@59-120-42-83.HINET-IP.hinet.net] has joined #HITCON
+14:52 -!- hiKaga [3cf906b8@gateway/web/freenode/ip.60.249.6.184] has quit [Ping timeout: 252 seconds]
+14:53 -!- adams_ [6589a279@gateway/web/freenode/ip.101.137.162.121] has joined #HITCON
+14:53 -!- Oz__ [df885348@gateway/web/freenode/ip.223.136.83.72] has joined #HITCON
+14:53 -!- Pp [27084a37@gateway/web/freenode/ip.39.8.74.55] has quit [Ping timeout: 252 seconds]
+14:54 -!- sbhsu [~sbhsu@59-120-42-83.HINET-IP.hinet.net] has quit [Client Quit]
+14:54 <@orange_> 11:21 < waeting> 再啦乾
+14:54 <@orange_> 是梗沒錯XD
+14:55 <@orange_> 本來要在下張放張梗圖但找不到適當的XD
+14:55 -!- Meow0verflow [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+14:55 <@orange_> 然後就忘記改回來了orz
+14:56 -!- Yuo [2a491cce@gateway/web/freenode/ip.42.73.28.206] has joined #HITCON
+14:58 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has joined #HITCON
+14:58 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+15:01 -!- Yuo [2a491cce@gateway/web/freenode/ip.42.73.28.206] has quit [Ping timeout: 252 seconds]
+15:01 -!- knowlet [6f473447@gateway/web/cgi-irc/kiwiirc.com/ip.111.71.52.71] has quit [Client Quit]
+15:04 -!- boommm11 [d34b4cd3@gateway/web/freenode/ip.211.75.76.211] has joined #HITCON
+15:04 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+15:04 -!- Oz__ [df885348@gateway/web/freenode/ip.223.136.83.72] has quit [Ping timeout: 252 seconds]
+15:04 -!- jojo_ [df8ca0b2@gateway/web/freenode/ip.223.140.160.178] has joined #HITCON
+15:08 -!- boommm11 [d34b4cd3@gateway/web/freenode/ip.211.75.76.211] has quit [Ping timeout: 252 seconds]
+15:16 -!- CHIEH [72258695@gateway/web/freenode/ip.114.37.134.149] has quit [Quit: Page closed]
+15:16 -!- Yk [b4ccf279@gateway/web/freenode/ip.180.204.242.121] has joined #HITCON
+15:17 < Yk> 123
+15:17 -!- Yk [b4ccf279@gateway/web/freenode/ip.180.204.242.121] has quit [Client Quit]
+15:18 -!- Yk [b4ccf279@gateway/web/freenode/ip.180.204.242.121] has joined #HITCON
+15:18 < Yk> 有人在嗎
+15:19 < JYNY> 嘿
+15:19 < Yk> R1進不去
+15:23 -!- Yk [b4ccf279@gateway/web/freenode/ip.180.204.242.121] has quit [Quit: Page closed]
+15:24 -!- Yk [b4ccf279@gateway/web/freenode/ip.180.204.242.121] has joined #HITCON
+15:24 -!- adams_ [6589a279@gateway/web/freenode/ip.101.137.162.121] has quit [Ping timeout: 252 seconds]
+15:33 -!- Bdjnsbh [72891c79@gateway/web/freenode/ip.114.137.28.121] has joined #HITCON
+15:36 -!- Eeeeeric [75139930@gateway/web/freenode/ip.117.19.153.48] has joined #HITCON
+15:38 -!- jojo_ [df8ca0b2@gateway/web/freenode/ip.223.140.160.178] has quit [Ping timeout: 252 seconds]
+15:40 -!- Eeeeeric [75139930@gateway/web/freenode/ip.117.19.153.48] has quit [Ping timeout: 252 seconds]
+15:40 -!- Chucky [6f47505f@gateway/web/freenode/ip.111.71.80.95] has quit [Ping timeout: 252 seconds]
+15:41 -!- Mitv [df884e65@gateway/web/freenode/ip.223.136.78.101] has joined #HITCON
+15:41 -!- Bdjnsbh [72891c79@gateway/web/freenode/ip.114.137.28.121] has quit [Ping timeout: 252 seconds]
+15:42 -!- Smith_ [df8cae80@gateway/web/freenode/ip.223.140.174.128] has joined #HITCON
+15:43 -!- meow0verflow [~janet@islab2.cs.nthu.edu.tw] has joined #HITCON
+15:44 -!- Yk [b4ccf279@gateway/web/freenode/ip.180.204.242.121] has quit [Ping timeout: 252 seconds]
+15:48 -!- allenown_ [uid13449@gateway/web/irccloud.com/x-gdmpuoziutzltnyh] has quit [Quit: Connection closed for inactivity]
+15:49 -!- Smith_ [df8cae80@gateway/web/freenode/ip.223.140.174.128] has quit [Ping timeout: 252 seconds]
+15:49 -!- Netcat [df8821c1@gateway/web/freenode/ip.223.136.33.193] has joined #HITCON
+15:50 -!- Netcat [df8821c1@gateway/web/freenode/ip.223.136.33.193] has quit [Client Quit]
+15:51 -!- boommm11 [d34b4cd3@gateway/web/freenode/ip.211.75.76.211] has joined #HITCON
+15:51 -!- anfa [uid110068@gateway/web/irccloud.com/x-yioknpzixvpvlctt] has quit [Quit: Connection closed for inactivity]
+15:52 -!- Mitv [df884e65@gateway/web/freenode/ip.223.136.78.101] has quit [Ping timeout: 252 seconds]
+15:52 -!- a6 [af62f002@gateway/web/freenode/ip.175.98.240.2] has joined #HITCON
+15:53 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+15:54 -!- nagi [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+15:54 -!- sibe [24ea3512@gateway/web/freenode/ip.36.234.53.18] has joined #HITCON
+15:57 -!- boommm11 [d34b4cd3@gateway/web/freenode/ip.211.75.76.211] has quit [Quit: Page closed]
+16:01 -!- meow0verflow [~janet@islab2.cs.nthu.edu.tw] has quit [Ping timeout: 276 seconds]
+16:02 -!- hrycc [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+16:02 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+16:03 -!- nagi [~nagi@180.204.32.212] has quit [Client Quit]
+16:04 -!- nagi [~nagi@180.204.32.212] has joined #HITCON
+16:04 -!- nagi is now known as nagi_
+16:05 -!- a6 [af62f002@gateway/web/freenode/ip.175.98.240.2] has quit [Ping timeout: 252 seconds]
+16:06 -!- Robert_ [7bc28a29@gateway/web/freenode/ip.123.194.138.41] has joined #HITCON
+16:06 < Robert_> hi,viki
+16:07 -!- Robert_ is now known as Guest54117
+16:07 < Guest54117> 媽我在這
+16:07 < sibe> ...
+16:08 -!- hrycc [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+16:09 -!- boommm11 [d34b4cd3@gateway/web/freenode/ip.211.75.76.211] has joined #HITCON
+16:09 < boommm11> hi viki
+16:09 < VIKI> 您好, boommm11
+16:10 -!- gvewbrb [2a4a0af0@gateway/web/freenode/ip.42.74.10.240] has joined #HITCON
+16:11 -!- Vence [3b782a52@gateway/web/freenode/ip.59.120.42.82] has joined #HITCON
+16:11 -!- gvewbrb [2a4a0af0@gateway/web/freenode/ip.42.74.10.240] has quit [Client Quit]
+16:11 -!- synth [2a4a0af0@gateway/web/freenode/ip.42.74.10.240] has joined #HITCON
+16:12 -!- synth is now known as Guest75462
+16:12 -!- sibe [24ea3512@gateway/web/freenode/ip.36.234.53.18] has left #HITCON []
+16:15 -!- Vence [3b782a52@gateway/web/freenode/ip.59.120.42.82] has quit [Ping timeout: 252 seconds]
+16:16 -!- nagi_ [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+16:16 -!- angelboy_ [~angelboy@li1607-119.members.linode.com] has joined #HITCON
+16:18 -!- nagi_ [~nagi@180.204.32.212] has joined #HITCON
+16:18 -!- lays [~lays@pwnable.tw] has joined #HITCON
+16:20 -!- nagi_ [~nagi@180.204.32.212] has quit [Read error: No route to host]
+16:21 -!- Guest54117 [7bc28a29@gateway/web/freenode/ip.123.194.138.41] has quit [Quit: Page closed]
+16:21 -!- booooom [7bc28a29@gateway/web/freenode/ip.123.194.138.41] has joined #HITCON
+16:23 -!- ccn [~ccn@staff.kkbox.com.tw] has quit [Read error: Connection reset by peer]
+16:23 -!- Guest75462 [2a4a0af0@gateway/web/freenode/ip.42.74.10.240] has quit [Quit: Page closed]
+16:24 < popopo> @sean_hitcon 是海恩嗎
+16:27 -!- danlu [~AndChat56@114-137-186-3.emome-ip.hinet.net] has quit [Read error: Connection reset by peer]
+16:27 -!- PhoenixWolf [uid246937@gateway/web/irccloud.com/x-mlkgmcbnvgwhxnky] has quit [Quit: Connection closed for inactivity]
+16:28 -!- ccn [~ccn@staff.kkbox.com.tw] has joined #HITCON
+16:30 -!- Smith_ [df8cae80@gateway/web/freenode/ip.223.140.174.128] has joined #HITCON
+16:39 -!- Smith_ [df8cae80@gateway/web/freenode/ip.223.140.174.128] has quit [Ping timeout: 252 seconds]
+16:47 -!- poet [3cf81f6f@gateway/web/freenode/ip.60.248.31.111] has joined #HITCON
+16:47 < poet> ls
+16:48 -!- poet is now known as Guest53031
+16:49 -!- boommm11 [d34b4cd3@gateway/web/freenode/ip.211.75.76.211] has quit [Quit: Page closed]
+16:50 -!- Guest53031 [3cf81f6f@gateway/web/freenode/ip.60.248.31.111] has quit [Client Quit]
+16:51 -!- ViolinTiger [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+16:54 -!- Jsindjjdkjs [72891c79@gateway/web/freenode/ip.114.137.28.121] has joined #HITCON
+16:55 -!- mmmmm [~androirc@101.14.147.184] has quit [Ping timeout: 256 seconds]
+16:55 -!- AndroUser2 [~androirc@49.214.245.102] has joined #HITCON
+16:58 -!- Jsindjjdkjs [72891c79@gateway/web/freenode/ip.114.137.28.121] has quit [Ping timeout: 252 seconds]
+16:59 -!- popopo [3dd80b58@gateway/web/freenode/ip.61.216.11.88] has quit [Ping timeout: 252 seconds]
+17:03 -!- nagi_ [~nagi@180.204.32.212] has joined #HITCON
+17:07 -!- nagi_ [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+17:12 -!- ws23 [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+17:26 -!- asasdeg [24e7943d@gateway/web/freenode/ip.36.231.148.61] has joined #HITCON
+17:27 -!- asasdeg [24e7943d@gateway/web/freenode/ip.36.231.148.61] has quit [Client Quit]
+17:30 -!- JYNY [uid13953@gateway/web/irccloud.com/x-ycrjxphhxcwhgmuh] has quit [Quit: Connection closed for inactivity]
+17:30 -!- nagi_ [~nagi@180.204.32.212] has joined #HITCON
+17:32 -!- booooom [7bc28a29@gateway/web/freenode/ip.123.194.138.41] has quit [Ping timeout: 252 seconds]
+17:33 -!- nagi_ [~nagi@180.204.32.212] has quit [Remote host closed the connection]
+17:38 -!- Guest_ [dc86059d@gateway/web/freenode/ip.220.134.5.157] has joined #HITCON
+17:38 < Guest_> test
+17:40 -!- wawynee [3b782a53@gateway/web/freenode/ip.59.120.42.83] has joined #HITCON
+17:43 -!- nagi_ [~nagi@180.204.32.212] has joined #HITCON
+17:47 -!- nagi_ [~nagi@180.204.32.212] has quit [Ping timeout: 244 seconds]
+17:48 -!- wawynee [3b782a53@gateway/web/freenode/ip.59.120.42.83] has quit [Ping timeout: 252 seconds]
+17:49 -!- exc3pt1on [~exc3pt1on@18.197.199.104.bc.googleusercontent.com] has quit [Quit: Ping timeout (120 seconds)]
+17:49 -!- exc3pt1on [~exc3pt1on@18.197.199.104.bc.googleusercontent.com] has joined #HITCON
+17:59 -!- Guest_ [dc86059d@gateway/web/freenode/ip.220.134.5.157] has quit [Quit: Page closed]
+18:01 -!- smith_ [ca2726fb@gateway/web/freenode/ip.202.39.38.251] has joined #HITCON
+18:13 -!- yee [uid175515@gateway/web/irccloud.com/x-ibrfybghuolrtxlc] has quit [Quit: Connection closed for inactivity]
+18:18 -!- snowcookie [6ff0117c@gateway/web/freenode/ip.111.240.17.124] has joined #HITCON
+18:18 -!- snowcookie [6ff0117c@gateway/web/freenode/ip.111.240.17.124] has quit [Client Quit]
+18:28 -!- walala [d3163d4a@gateway/web/freenode/ip.211.22.61.74] has quit [Ping timeout: 252 seconds]
+19:03 -!- ijp [6e328624@gateway/web/freenode/ip.110.50.134.36] has joined #HITCON
+19:18 -!- cwhwillie [uid175531@gateway/web/irccloud.com/x-kzczibsinkovcwbt] has quit [Quit: Connection closed for inactivity]
+19:20 -!- ijp [6e328624@gateway/web/freenode/ip.110.50.134.36] has quit [Quit: Page closed]
+19:31 -!- Elfiend [~elfiend@36-228-99-64.dynamic-ip.hinet.net] has joined #HITCON
+19:51 < Elfiend> 這邊可以抱怨嗎？
+19:51 < Elfiend> 還是要去其他地方講？
+19:54 -!- kevin_ [658956ca@gateway/web/freenode/ip.101.137.86.202] has joined #HITCON
+19:55 -!- kevin_ [658956ca@gateway/web/freenode/ip.101.137.86.202] has quit [Client Quit]
+19:56 -!- kevin_ [658956ca@gateway/web/freenode/ip.101.137.86.202] has joined #HITCON
+19:57 -!- kevin_ [658956ca@gateway/web/freenode/ip.101.137.86.202] has quit [Client Quit]
+20:04 -!- sbhsu [3cfb7c0c@gateway/web/freenode/ip.60.251.124.12] has joined #HITCON
+20:06 -!- sbhsu [3cfb7c0c@gateway/web/freenode/ip.60.251.124.12] has quit [Client Quit]
+20:11 -!- smith_ [ca2726fb@gateway/web/freenode/ip.202.39.38.251] has quit [Quit: Page closed]
